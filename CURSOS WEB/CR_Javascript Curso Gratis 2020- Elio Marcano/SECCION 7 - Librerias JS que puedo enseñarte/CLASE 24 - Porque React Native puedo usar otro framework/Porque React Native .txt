@@ -1,0 +1,17 @@
+Usamos React Native debido a que tengo un curso básico y uno completo de ello, 
+los cuales puedes ver en mi Perfil. Pero puedes hacer uso de react js, vue js o cual prefieras.
+
+¿La aplicación que hacemos en este curso con node, express y mongoDB puede ir separada de la 
+app react native?. ¡Totalmente! También la base de datos de mongoDB puede ser opcional y puedes 
+conectar tu app node y express con mysql por ejemplo.
+
+
+
+¿Qué conocimientos necesito tener para conectar mi frontend js a la app node? Manejo de API 
+y fetch. En el curso usamos fetch de javascript para conectar nuestro frontend js al backend 
+js, así de sencillo. https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Utilizando_Fetch
+
+
+
+¿El código react native esta disponible para su descarga? Si. En la clase 7, tendrás acceso a un 
+.zip con todo el proyecto.
