@@ -1,0 +1,285 @@
+Bien, empezamos una nueva clase, la cual va a ser teórica, en la que vamos a detallar, valga la
+
+redundancia de manera teórica, que son los datos y los tipos de datos que existen y que es una variable.
+
+Este es un tema bastante importante porque lo que nos espera con relación a las prácticas hay que saberlo.
+
+Por ende, es necesario que lo veamos tanto de manera teórica como de manera práctica.
+
+Vamos a empezar con la teoría.
+
+Primero, hay que detallar dos conceptos importantes.
+
+Veamos.
+
+El primero es dado y el segundo es variable.
+
+Comenzamos por dato cuando nosotros hablamos de lenguaje, de programación.
+
+No es exclusivo de un lenguaje de programación, no es exclusivo de JavaScript.
+
+Python no es exclusivo de no, ningún lenguaje de programación es exclusivo en relación a los datos.
+
+Todos los lenguajes de programación manejan datos, pero que es un dato?
+
+Bien, un dato es una de las cosas básicas que utiliza un programa.
+
+Puede ser una letra o un número.
+
+Por ejemplo, tenemos ahí el 5 y el 49 punto 99, que son datos geométricos.
+
+En realidad, el cuarenta y nueve punto Narayen es un dato flotante, pero no me voy a meter tanto en
+
+eso por el momento.
+
+Un dato es eso es la unidad mínima en un programa.
+
+Es algo que representa una cifra.
+
+Puede ser un carácter, una letra, un conjunto de letras, un conjunto de números y eso sería un dato,
+
+por otro lado, variable.
+
+Acá lo mismo una variable no es exclusiva de un lenguaje de programación.
+
+De hecho, si es exclusiva de los lenguajes de programación, pero no de un lenguaje a que me refiero.
+
+Cosas como HTML y CSS no son lenguajes de programación.
+
+Por qué?
+
+Porque no utilizan variables, porque no utilizan estructuras de manera fácil, no utilizan variables.
+
+Así de simple.
+
+Pero bien.
+
+Una variable, que es una de las características más potentes de un lenguaje de programación, es la
+
+capacidad de manipular variables.
+
+Una variable es un nombre que se refiere a un dato.
+
+Una variable va a ser un espacio en memoria que justamente vamos a crear y asignar, que va a llevar
+
+un nombre y un dato asignado.
+
+Esto quiere decir que una variable va a ser un nombre como tal al que se le asigne un dato bueno a la
+
+inversa, un dato al que se le asigna un nombre, una variable, como te digo, tal como su nombre lo
+
+indica, también puede variar.
+
+Digamos una variable puede ser numérica.
+
+Número uno, pero más adelante ese dato puede cambiar.
+
+Puede ser que una variable numérica pero sea 2 más adelante en la práctica lo veremos.
+
+Una variable es eso, un espacio de memoria, y también es el nombre que se le asigna a un dato.
+
+Cuando nosotros creamos las variables, hay que seguir ciertas reglas estos días de la mayoría de lenguajes,
+
+cuando nosotros creamos variables, la primer regla es que no pueden iniciar con un número.
+
+La variable puede llevar cualquier nombre.
+
+Bueno, una cualquiera, pero si cualquier nombre que no tenga un número al inicio puede llevar números,
+
+sí, pero que empiece con un número jamás.
+
+Una variable tiene esa regla, jamás va a iniciar con un número.
+
+Así que no intentes crear variables que inician con número porque te va a lanzar error.
+
+Cualquier programa, en cualquier lenguaje de programación siguiente, no pueden llevar caracteres especiales.
+
+Cosas como la Ñ.
+
+El arroba, guión bajo y guión se pueden llevar, pero hay caracteres especiales que simplemente no.
+
+Por ejemplo, hay un carácter que se llama Bill Curilla.
+
+Me parece que así se llama, pero es la el símbolo de la eñe.
+
+Ese es otro carácter especial que no pueden llevar.
+
+Cuando tú colocas un carácter especial, no te lo voy a mencionar todos, pero cuando tú colocas un
+
+carácter especial, eso te va a volver error.
+
+Ahí es donde te vas a dar cuenta que es el carácter que has colocado.
+
+No es idóneo, no es correcto.
+
+Entonces una variable no puede llevar carácter especial.
+
+Siente.
+
+No pueden llevar el nombre palabras reservadas de un lenguaje.
+
+En JavaScript, por ejemplo, Alert es una palabra reservada del lenguaje con.
+
+Sirve para mostrar un popup.
+
+Y para mostrar un mensaje, ese alert no puede ser el nombre de una variable en Python, por ejemplo,
+
+un print es una palabra reservada del lenguaje.
+
+Una variable no puede llevar ese nombre.
+
+Un print sirve para mostrar mensajes por pantalla en C++, por ejemplo, c out, seguido del símbolo
+
+de mayor que mayor, que es una palabra reservada del lenguaje.
+
+No pueden llevar el nombre de palabras reservadas.
+
+Cómo reconocer qué palabras reservadas existen?
+
+La misma regla con los caracteres especiales.
+
+Cuando tú coloques asignando a una variable el nombre de una palabra reservada, eso te devolverá error.
+
+Entonces, palabras que ya sean propias de un lenguaje no pueden ser nombradas como variables.
+
+Ciñen.
+
+Tipos de datos.
+
+Ya dijimos que los datos son.
+
+Se podría decir que la forma mínima de un programa y cuando hablamos de tipos de datos tenemos tres
+
+primero enteros.
+
+Por ejemplo, el 3 porque es un entero, porque el 3 no tiene parte decimal.
+
+No entiende, por ejemplo 3.10, 3.2, 3.15, 3.22, 3.14.
+
+No es un 3, es entero.
+
+3.
+
+Punto cero.
+
+Cero.
+
+Cero cero.
+
+Es entero.
+
+Siente flotante un dato flotante es aquel que tiene decimales.
+
+Pi es un claro ejemplo de ello.
+
+Pi es 3.14 15 92 y así una infinidad que nunca termina.
+
+Pues bien, cuando un número tiene decimal, ese es un tipo de dato numérico flotante o simplemente
+
+flotante.
+
+Es todo aquel número que tiene parte decimal.
+
+Luego las cadenas de texto.
+
+Una cadena de texto es el conjunto de varias letras o varios caracteres.
+
+Ahí tenemos.
+
+Hola.
+
+En la conglomeración de H o el A y también los símbolos de admiración.
+
+Pero es una cadena de texto.
+
+Ahora bien, hay más.
+
+Por supuesto que hay más.
+
+Pero algunos redundan en esto nada más en que son enteros, flotantes o cadenas de texto.
+
+Ya más adelante, en la práctica, veremos cuáles otros tipos de datos existen.
+
+Si acá es necesario.
+
+Siempre.
+
+Vamos a ver estos ejemplos de variables y también de tipos de datos.
+
+Fíjate, una recomendación al nombrar variables es que nosotros tenemos que colocar un nombre alusivo.
+
+No podemos colocar.
+
+De hecho, vamos a verlo en el ejemplo.
+
+Primero se desea almacenar en una variable la edad de un usuario que tiene 20 años.
+
+Bien, queremos almacenar en una variable una edad.
+
+Ahora bien, qué queremos almacenar?
+
+Edad?
+
+Cuántos años tiene?
+
+20.
+
+Entonces, un nombre bastante alusivo para la variable esa edad y de hecho ahí lo tienes.
+
+Edad es el nombre de la variable, es igual, se llama igualación.
+
+Más adelante lo veremos, es para asignar valores y el 20 es un tipo de dato numérico entero o entero
+
+es lo mismo.
+
+Yo por ejemplo, no puedo.
+
+Bueno, si puedo, pero le coloco X al nombre de la variable.
+
+Qué tiene que ver X con la edad del usuario?
+
+Entonces ahí es donde entra la lógica, coloca nombres de variables que tengan alusión a lo que quiere
+
+guardar.
+
+En este caso queremos guardar la edad de un bueno, de un sujeto que tiene 20 años.
+
+Entonces, un nombre elusivo edad.
+
+Esa es la variable, ese es el nombre.
+
+Y fíjate que cumple con las reglas de las variables.
+
+Y el dato que quiero asignar a esa variable es 20, por ende 20 tipo de dato entero.
+
+Siguiente ejemplo se quiere almacenar en una variable un mensaje de bienvenida nombre de la variable
+
+mensaje.
+
+No le puedo colocar, por ejemplo, ya que no tiene sentido.
+
+Yo quiero almacenar un mensaje, pues coloco mensaje.
+
+Es una buena práctica en lo que se refiere a variables mensaje igual entre comillas.
+
+Los las cadenas de texto o los caracteres siempre van entre comillas o comillas simple y más adelante
+
+lo veremos.
+
+Y el mensaje bienvenido.
+
+En este caso estaríamos creando la variable mensaje y asignándole un valor de cadena de texto.
+
+Un tipo de dato de cadena de texto.
+
+Así que bueno, de esta forma es como finalizamos esta clase teórica.
+
+Sobre las variables y los tipos de datos ahora.
+
+Empecemos la parte práctica y veamos esto, pero de una forma práctica.
+
+Así que sin más, me despido.
+
+Muchas gracias por ver.
+
+Éxitos y hasta la próxima.

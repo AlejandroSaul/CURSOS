@@ -1,0 +1,151 @@
+Bien, iniciemos una nueva sección en esta sección vamos a preparar el entorno de desarrollo con el
+
+que vamos a trabajar durante todo el curso.
+
+Quizá más adelante tienda a cambiar ciertas herramientas, pero en la mayoría del curso vamos a utilizar
+
+el mismo.
+
+Este laboratorio, se podría decir este entorno de trabajo va a ser justamente preparativo para programar
+
+en Python.
+
+De igual forma, vamos a ver cosas un poco más avanzadas, como lo son el desarrollo web, el desarrollo,
+
+aplicaciones de escritorio y así diferentes y diversos temas.
+
+Sin embargo, para esos temas, ya más adelante volveremos a preparar otro entorno de desarrollo en
+
+el que justamente haremos este tipo de cosas.
+
+Bien, necesitamos tres o dos cosas dependiendo.
+
+Primero necesitamos Python y segundo, un editor de código.
+
+Una tercera cosa va a depender de ti.
+
+Te voy a dar tres opciones para que tu programa en Python.
+
+En algunas o en alguna de estas opciones, Peyton va a ser necesario que instalemos más cosas.
+
+Ahora bien, yo te recomiendo que te vayas por Visual Studio Code.
+
+Más adelante hablaré sobre ello, pero te daré varias opciones de editores de código por si en dado
+
+caso tu memoria es poca si no tienes los recursos suficientes en tu computadora o si se te hace un poco
+
+complicado y demás, pues yo te recomiendo que utilices alguna alguna opción alterna.
+
+Pero bien, comencemos.
+
+Lo que haremos en esta clase es instalar Python.
+
+Para eso es tan simple como abrir cualquier pestaña.
+
+El navegador cualquiera sirve en realidad y es tan sencillo como colocar Python.
+
+Ahí está.
+
+Bien, si te fijas, tenemos diferentes páginas, la que nos interesa es Python punto o hereje.
+
+Vamos a entrar acá.
+
+Y dependiendo cuál sea la versión que que tenga, al menos hasta el momento de grabar esta clase, vamos
+
+por el 3.9.
+
+Dependiendo cuál sea la versión, va a ser el mismo, el mismo proceso.
+
+Download De hecho, ya estamos en la 3.10, incluso vamos a descargar y ya.
+
+Esto sería todo.
+
+Guardamos el archivo y esperemos a que se descargue.
+
+Ahora bien, fíjate Dolo, a mí ya me reconoce que yo tengo un Windows.
+
+En tu caso, si tienes Mac o tienes Linux, va a reconocerte de igual forma.
+
+Por ende, esto, esta página de Python te va a reconocer tu sistema operativo de manera automática.
+
+Si en todo caso acá dice que tienes un Linux pero tienes un Windows, ahí sí tendrías que buscar acá
+
+en downloads para Windows.
+
+Aquí está la opción para Windows.
+
+Aplica exactamente lo mismo para los otros, por ejemplo Makers y Other plazas.
+
+Como te digo, esta página ya detecta por automático que tienes un Windows se en dado caso no te lo
+
+detecta.
+
+Pues ya sabes, te vienes acá y descargas en cualquiera de estos, por ejemplo Python 3.10 y aquí tenemos
+
+los diferentes instaladores tanto para estos como 32, pero en.
+
+Una vez hecho esto, el proceso es bastante sencillo, casi que The next next se nos va a descargar,
+
+está instalado, damos clic derecho, corremos como administrador, es normal que nos muestre estos
+
+permisos, le damos que si.
+
+Bien.
+
+Importante, añade Peyton al path, esta opción en el instalador te la va a mostrar como que si no estuviera
+
+marcada, marcada, es importante de paso, porque más adelante basaremos a cosas como Django, como
+
+Te Químper y es importantísimo que esto esté seleccionado.
+
+Ahora, en lugar de dar la caña install, não vamos a dar custo mais installation, vamos a ver acá
+
+y acá lo mismo verifica que todos estos estén seleccionados, absolutamente todos, en especial el PIC
+
+y también el para todos los usuarios damos en NEXT.
+
+Y aquí de nuevo vamos a seleccionar esta acá, junto con las que ya trae por defecto, esta la vas a
+
+traer, así tienes que seleccionar.
+
+Bueno, el resto ya no nos sirva.
+
+Instalamos y eso sería todo.
+
+De esta manera es cómo se nos va a instalar Python en nuestro sistema operativo.
+
+Ya vamos a ver como.
+
+Cómo mostrar el el idle que es el idle es la forma de.
+
+Bueno, es un editor de código de Python, pero vamos a utilizar.
+
+Voy a hacer una pausa en lo que esto se instala, así que continuamos cuando termine.
+
+Bueno, aquí ha terminado la instalación.
+
+Al final te va a salir que todo ha sido instalado.
+
+Vamos a cerrar esto y ya está.
+
+Hasta acá ya tienes Peyton instalado.
+
+Cómo puedes verificar que tienes Peyton instalado?
+
+Bueno, pues vamos a abrir acá en Windows y ya te deben de salir estas tres cosas el Idle, el Python
+
+3.10 y los manuales de uso.
+
+Más adelante vamos a ver cómo utilizar estas herramientas, pero por el momento nada más, a modo de
+
+revisar que todo esté bien.
+
+Abre el idle y ya vas a tener esto por acá.
+
+Y de esta manera es como justamente te vas a dar cuenta de que ya tenés instalado Python de manera correcta.
+
+Si esto te sale bien, pues ya es tarea.
+
+Así que sin más me despido.
+
+Muchas gracias por ver éxitos y hasta la.

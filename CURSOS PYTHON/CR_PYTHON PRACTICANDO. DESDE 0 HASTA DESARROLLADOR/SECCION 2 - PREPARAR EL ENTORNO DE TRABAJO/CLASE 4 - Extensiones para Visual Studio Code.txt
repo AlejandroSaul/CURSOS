@@ -1,0 +1,275 @@
+Bien, vamos a una nueva clase en la que terminaremos de configurar nuestro beso Alcott para las demás
+
+configuraciones y la programación en Python.
+
+Así que en esta clase vamos a instalar ciertas extensiones.
+
+También hacer ciertos cambios que puedan resultarte un caos, una un tema de personalización más que
+
+todo.
+
+Pero bueno, comencemos.
+
+A grandes rasgos y de manera simple, una extensión es una función extra que se instala y que generan
+
+nuevas funciones.
+
+Por ende, una extensión es un plus, no necesariamente en la programación aplica para cualquier otro
+
+ámbito en la informática, incluso fuera de la informática.
+
+Pero en Visual Studio Code tenemos una infinidad de extensiones en esta clase vamos a instalar las que
+
+nos van a ser más útiles para el manejo de Pipe.
+
+Entonces, comencemos.
+
+Lo primero que debemos de tener en cuenta es que las extensiones se pueden conseguir tanto fuera de
+
+visual com como dentro.
+
+Yo lo voy a hacer desde adentro.
+
+Así que abre tu visor code y aquí vas a notar como.
+
+Un menú se le podría decir lo que nosotros nos interesa es este los cuadros.
+
+Se llama Extensions.
+
+Aquí.
+
+Vas a tener todas las extensiones que puedes instalar.
+
+Yo ya tengo ciertas.
+
+Bueno, hay ciertas extensiones instaladas.
+
+Hay otras que la recomiendan el mismo Microsoft, pero para el caso del curso vamos a instalar la primera
+
+que es Python, coloca en el buscador la palabra paito.
+
+Y luego entra la primera, este que se llama Pitón Intelige.
+
+Yo ya la tenga instalada por si ves que hay varias.
+
+Pues sí, en realidad en varias, pero lo que nos interesa es esta, el de Intel.
+
+Y quizás aquí puedes notar cuál es la descripción respectiva de esta extensión.
+
+Es la que nos interesa.
+
+Como te digo, yo ya la tengo instalada.
+
+En tu caso te va a salir acá un botón verde que desinstalar, instalar.
+
+Simplemente lo presionas, esperas a que termine y luego pues ya está instalada.
+
+De hecho, la clave es instalar más acá, instalar.
+
+Dale un tiempo para que se descargue y se instale y ya con esto lo tendríamos técnicamente hecho, para
+
+que nos va a servir esta extensión?
+
+Bien.
+
+Cuando nosotros trabajamos con Python podemos ejecutar por fuera el lenguaje.
+
+Python es un lenguaje interpretado, un lenguaje interpretado es aquel que necesita de un tercer programa
+
+para leer y ejecutar su código.
+
+Por ejemplo, JavaScript es otro ejemplo el lenguaje interpretado.
+
+Por qué?
+
+Porque necesita de un navegador para leer su código.
+
+El navegador funge como ese tercero, como ese programa que lee el código.
+
+Lo mismo pasa con Python.
+
+Esta extensión de Python, entonces, nos va a servir para interpretar el código que nosotros escribamos
+
+en Visual Code.
+
+Por ende, vamos a utilizarlo bastante bien.
+
+Ya tendríamos la primera extensión.
+
+Voy a cerrar esto.
+
+La siguiente estrella viene instalada por defecto con Visual Code y es la terminal.
+
+Fíjate cómo voy a bajar acá a la izq.
+
+A la derecha.
+
+Aquí abajo tenemos esto que se llama terminal integrada.
+
+Si, yo doy click acá.
+
+Aquí tendríamos una terminal en la terminal no sirve para ejecutar comandos.
+
+En algunos casos puede ser que está terminando, esté instalada.
+
+Por ende, vamos a ver cómo se instala también una extensión.
+
+Vamos a abrir acá otra vez estos cuadros y en lugar de pipe vamos a poner terminar.
+
+Vamos a esperar a que revise la boca.
+
+Y acá está.
+
+Mirá como a mi me sale instalada, de hecho, ni siquiera tuve que haberla instalado y la traía por
+
+defecto, pero como te digo, en algunos casos esta terminal.
+
+Bueno, venir por defecto.
+
+Nosotros vamos a instalar.
+
+Vamos a darle un tiempo ahí para que instala, esta instalando y bueno, esta terminal nos va a servir
+
+para leer las líneas de código que nosotros vayamos a colocar.
+
+De igual forma, esta terminal ayuda a que nosotros podamos ejecutar el código Python.
+
+Ya tendríamos acá nuestra terminal.
+
+Como te digo, está bien por defecto, pero por si las dudas, si no la tienes por defecto, ahí estaría
+
+bien.
+
+Ahora vamos a algo que me preguntan mucho y es el tema del vicio alcohol y por tema me refiero a lo
+
+siguiente no hagas este proceso, yo simplemente lo voy a hacer, a modo que que notes que a qué me
+
+refiero con tema.
+
+Bueno, voy a venir acá.
+
+Vamos a vamos a hacer lo siguiente, voy a abrir esto.
+
+Esto no lo hagas, esto lo haremos más adelante.
+
+Aquí tengo un ejemplo ya de Peyton.
+
+Bueno, esto es conocimiento que veremos más adelante.
+
+Pero fíjate en los colores.
+
+Muchas veces me preguntan qué colores utilizo o cómo se configuran, como se pone bien para poner los
+
+colores o el tema de.
+
+De este tema.
+
+Valga la redundancia, tenemos dos cosas por instalar.
+
+La primera es una extensión llamada brackets.
+
+Coloca Bracket se llama Bracket Pair.
+
+Aquí está Bracket Fair Color ISER.
+
+Esta herramienta nos permite identificar el código como tal.
+
+Una vez ya la tengo instalada, me voy a instalar, simplemente la instalas.
+
+Esto lo verás más adelante.
+
+Como verá que el color ISER nos va pintando de diferentes colores, cada uno de los distintos de las
+
+distintas instrucciones que nosotros vamos colocando.
+
+Cierro esto volviendo con el ejemplo.
+
+Mira este color.
+
+Este color a mí me gusta bastante, se llama mono.
+
+Mono cae night, me parece.
+
+Llegamos a verlo.
+
+Pero cómo sé cómo se hace?
+
+Bien.
+
+Vamos a irnos de las extensiones.
+
+Ahora vamos a irnos a esta.
+
+Esta tuerca vamos a verla acá y lo que nosotros nos interesa es esto.
+
+Color time.
+
+Ahí está por defecto, me parece que Visual Code trae este.
+
+Si este es el que trae por defecto, simplemente no me gusta.
+
+Pero fíjate, como tenemos diferentes temas, te lo voy a enseñar todos, porque posiblemente no tengas
+
+este ejemplo de código.
+
+Ese sería el.
+
+El uso del color light, que definitivamente no me gusta porque me arruina la vista, pero voy a enseñar
+
+todo color.
+
+Tim Light Ese mezcla es como un lila, como morado.
+
+Aquí vamos cambiando un café que se ve horrible.
+
+Al menos yo lo veo horrible.
+
+Sabes que ya se ve un poco como más profesional, más más oscuro.
+
+Dark, que es el que trae por defecto que te menciono, que a mi la verdad no me gusta.
+
+Y ahora el dar por default este es el que trae por defecto.
+
+A mi me gusta como te digo, es el mono cae.
+
+Hacemos esto para abajo y aquí tenemos más.
+
+Tenemos el mono cae.
+
+Es una opción, el que yo utilizo es Mono Cae Night.
+
+Ahí está.
+
+Ese es el que me gusta.
+
+Tú puedes escoger el que más te gusta y te enseña una vasta variedad.
+
+Puedes revisarlos uno por uno, pero al final redundan en lo mismo.
+
+Son simplemente temas.
+
+Escoge el que más te guste o con el que mejor te sientas.
+
+De hecho, este también está horrible.
+
+Este rojo.
+
+Pero bueno, para gustos los colores.
+
+Ahí tienes para escoger.
+
+Yo me quedo con mi mono cainita.
+
+Ya está.
+
+Y bueno, de esta forma como finalizo esta clase preparatoria de Visual Code, ahora vamos con los otros
+
+dos ejemplos que que te menciono.
+
+Y por ejemplos me refiero a los otros dos editores de código que te pueden servir por el momento.
+
+Me despido.
+
+Muchas gracias por ver.
+
+Éxitos y hasta la próxima.

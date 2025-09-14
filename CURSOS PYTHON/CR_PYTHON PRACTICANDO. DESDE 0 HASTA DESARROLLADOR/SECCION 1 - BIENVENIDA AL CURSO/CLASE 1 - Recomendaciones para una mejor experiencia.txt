@@ -1,0 +1,145 @@
+Hola, amigos.
+
+Bienvenidos a la primer clase de Python practicando desde cero hasta desarrollador en Python.
+
+Primero que nada, si estás viendo esta clase porque adquiriste el curso, muchas gracias por la confianza.
+
+Si estás viendo esta clase como previsualización gratuita en ambos casos, los invito a quedarse a ver
+
+por completo esta clase, porque acá voy a resumir brevemente con qué se van a encontrar y cuáles son
+
+nuestros consejos para que su experiencia sea la mejor posible, lo cual es en gran medida nuestra,
+
+nuestro objetivo.
+
+Bien.
+
+Primero y principal.
+
+A nosotros nos gusta siempre decirle a nuestros estudiantes que sientan el curso como propio.
+
+Es decir, así como van a tener acceso de por vida, van a recibir las futuras actualizaciones, etc
+
+También nos gusta que justamente lo sientan como propio y si tienen algún feedback, comentario de qué
+
+les gustaría que agreguemos, quitemos, modifiquemos o inclusive que les gusta mucho, dentro de lo
+
+que la forma en que lo estamos enseñando nos lo digan, sea desde aprovechando redes sociales como también
+
+pueden aprovechar acá.
+
+Las preguntas y respuestas van hasta abajo, ponen otra pregunta y pueden dejar el comentario que gusten.
+
+Ni hablar.
+
+Y por supuesto también si tienen dudas con respecto al contenido, nosotros estamos muy atentos a la
+
+sección de preguntas para brindarles soporte sobre las dudas que tengan al respecto del contenido del
+
+curso.
+
+Este curso, por el momento, tiene una cantidad de horas determinada, más de 20 horas y a simple vista
+
+ustedes pueden ver efectivamente todas las secciones que tienen para ir aprendiendo.
+
+Cada sección tiene una razón de ser y nosotros somos partidarios de un dicho que dice mejor tenerlo
+
+y no necesitarlo.
+
+Necesitarlo y no tenerlo.
+
+A qué hacer referencia esto.
+
+Y por eso también el curso se llama desde cero.
+
+Nosotros asumimos que todos inician esta formación sin un conocimiento.
+
+Quizá no sea tu caso y si tú ya tienes algún conocimiento determinado, es importante que sepas que
+
+si hay clases que ya las conoces, pueden marcarlo como listo, check lo que haces, eso sí que sea
+
+bueno.
+
+En este caso hay algunos que están marcados.
+
+Si vamos marcando y van mirando acá en la copa van a ver que de a poquito, como son muchas clases,
+
+la copa va avanzando lentamente.
+
+El radio de la copa es directamente proporcional a la cantidad de clase, más de 200, y de esa manera
+
+ustedes pueden ir avanzando en el curso para que cuando llegue al final obtengan su certificado y cuando
+
+tienen alguna clase que ustedes les brinda un nuevo conocimiento, simplemente pueden directamente a
+
+reproducirla.
+
+Yo soy partidario de que el conocimiento no ocupa espacio y que siempre, siempre hay algo nuevo para
+
+aprender y por eso también la ventaja del formato que les menciono, porque si ustedes también en una
+
+clase que quizás algo no entiende y hace referencia a una clase anterior, puede que haya algo nuevo
+
+para que ustedes puedan aprender.
+
+Ya una vez explicado esto, fíjense que como les dije, empezamos desde cero, preparamos un entorno
+
+de trabajo y empezamos por los primeros pasos.
+
+Como verán, inclusive independientemente a lo evidente de que tenemos que aprender con Python, nosotros
+
+le enseñamos también en este caso brevemente unas cortas secciones de HTML y CSS.
+
+Por qué?
+
+Porque nosotros en este curso, para nosotros enseñarles el enum o scripting con Python es importante
+
+que tengan el conocimiento con respecto a HTML y CSS, porque es propio para poder utilizar el enum,
+
+por ejemplo.
+
+Luego también tenemos diferentes proyectos en donde inevitablemente al estar hablando de un entorno
+
+web, estamos hablando de que vamos a convivir con HTML y CSS, que es la estructura, la arquitectura
+
+que le da el esqueleto, que le da forma y sostiene a nuestra web lo visual que con lo que va a interactuar
+
+el usuario.
+
+Por eso está agregado acá, para que aquel o aquella o aquel estudiante que quizás no lo conozca, pueda
+
+aprender.
+
+Es un regalo, por así decirlo, que nosotros le damos muy, muy breve en comparación al volumen y cantidad
+
+de horas que tiene el curso.
+
+Nosotros siempre le recomendamos estar atentos a los anuncios educativos, porque si más adelante nosotros
+
+agregamos alguna actualización, lo que vamos a hacer es estar informando en el anuncio educativo para
+
+que sepan.
+
+Luego, brevemente les voy a comentar que te pueden.
+
+Modificar la velocidad de reproducción.
+
+Si a usted le parece que hablo muy rápido, pueden disminuir la velocidad.
+
+Si hablo muy lento, pueden aumentar la velocidad de reproducción.
+
+También tienen la transcripción de la clase, que acá aparece todo por escrito directamente.
+
+También los subtítulos si los necesitan y la calidad del vídeo con la que se está reproduciendo también
+
+pueden ir tomando notas.
+
+Estas son herramientas que le ofrece de si está en esta parte de la clase y quieren tomar un apunte,
+
+lo puede hacer directamente desde acá.
+
+Bueno amigos, muchas, muchas gracias por estar ahí.
+
+Nos vemos en la próxima clase.
+
+Les dejo un abrazo digital.

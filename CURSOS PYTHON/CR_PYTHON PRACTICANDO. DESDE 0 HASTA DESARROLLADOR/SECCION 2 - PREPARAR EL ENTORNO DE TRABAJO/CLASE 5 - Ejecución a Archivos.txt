@@ -1,0 +1,267 @@
+Bien, vamos a esta clase en la que quiero enseñarte cómo ejecutar tus archivos, cómo guardarlos y
+
+también cómo estructurarlo tanto en Visual Studio Code como en Sublime Text.
+
+Recuerda, te he dado esas dos opciones.
+
+Yo te recomiendo que tomes Visor Code porque es la más fácil, la más sencilla y en la que voy a poder
+
+darte soporte.
+
+Si tomas más sublime text se me va a ser un poco complicado porque no es el entorno del curso.
+
+Yo te enseño sublime text con el objetivo que si tienes una computadora vieja, una computadora con
+
+pocos recursos, pues que no te corra visual COD o que te dé errores puedas utilizar sublime text,
+
+pero vas a darte cuenta en esta clase que el proceso para sublime text es un poco más largo, un poco
+
+más de Dios.
+
+Bien, lo que debemos de hacer, tanto para Tex como para Visual Code, es crear una carpeta.
+
+Voy a crear una carpeta y ponle un nombre descriptivo.
+
+Yo, por ejemplo, lo voy a poner cursor prieto.
+
+Ahí está.
+
+Vamos a empezar con sublime text.
+
+Esta carpeta es donde va a vamos a trabajar cada uno de los archivos, programas, ejercicios que desarrollemos
+
+en Python.
+
+Acá se van a guardar y desde aquí los vamos a ejecutar.
+
+Ahora bien, para el caso de Sublime Text, simplemente abrelo.
+
+Y lo que debemos de hacer es.
+
+Yo hago lo simple.
+
+Toma esta carpeta y la arrastro hacia sublime text a c y mira como ya se me ahora este esta área que
+
+es el workspace y desde acá podemos trabajar en el dato.
+
+Bueno, hay un poco curioso, si presionas controles crol del del mouse se hace esto más grande.
+
+Si presionas control más lo mismo.
+
+Si presionas control, menos lo mismo.
+
+Nada más por si no alcanzas a ver bien.
+
+Bueno, ya tendríamos acá nuestra carpeta, como te digo en esta carpeta donde vamos a almacenar cada
+
+uno de los archivos.
+
+Ahora lo que debes hacer es dar en File Newfield.
+
+Ahí está.
+
+Esta va a ser un nuevo archivo.
+
+Acá voy a adelantarme un poco.
+
+Esto lo veremos más adelante.
+
+Voy a colocar una línea de código que es propia de de paito.
+
+Voy a poner un print.
+
+Esto te lo voy a explicar más adelante por el método.
+
+No te preocupes.
+
+Voy a poner Hola mundo.
+
+Lo que quiero que veas es cómo se ejecuta.
+
+Ya tengo mi línea de código acá.
+
+Obviamente vas a colocar todo el código que necesites, el camaritas y demás.
+
+Lo importante es que guardemos esto.
+
+Para eso vamos a dar el file y le vamos a dar guardar.
+
+Cómo se nos va a abrir acá?
+
+Bueno, en realidad se nos va a abrir una acá en una dirección cualquiera.
+
+Debemos irnos hacia la carpeta que hemos creado.
+
+Ponente.
+
+Ya estoy acá.
+
+Esta es la carpeta que acabamos de crear.
+
+Acá es donde vamos a guardar.
+
+Es importante que el nombre yo, por ejemplo, poner Hola mundo!
+
+Todo debe ir juntos, no separados.
+
+Es importante que cada archivo tenga la terminación Pelle, o sea Pelle, porque si no, no lo va a
+
+reconocer como archivo paito.
+
+Y aquí ya tendríamos nuestro primer archivo en Paipa.
+
+Como lo vamos a ejecutar?
+
+Pues bien, aquí es donde te digo que viene el proceso largo.
+
+Vamos a tener que presionar Windows R con Windows R se nos va a abrir una pestaña llamada Ejecutar esta
+
+acá y lo que vemos es un CMD.
+
+El cmd es una consola.
+
+Fíjate esto que tenemos por acá.
+
+Ahí está.
+
+Esta es la consola de Windows.
+
+Lo que debemos de hacer es irnos hacia la dirección de nuestra carpeta.
+
+Si instalamos bien Python, esto no te va a dar error.
+
+Yo te recomiendo que entres a la carpeta.
+
+Y acá en esta barra extraigas, o mejor dicho, copias, está rota.
+
+Ah, sí?
+
+Y acá en la terminal vamos a poner CD y pegar lo que acabamos de copiar.
+
+Ah, sí, y ya estamos dentro de nuestra carpeta.
+
+Lo que hemos hecho acá es movernos hacia esta carpeta.
+
+Si yo acá hago un LS.
+
+Bueno, no es hundir LS de Linux.
+
+Mira como tenemos el Hola mundo puntos Pelle.
+
+Qué debemos de hacer para ejecutarlo?
+
+Lo que debemos hacer es colocar la palabra clave Python 3, porque es la versión 3 la que instalamos.
+
+Y ahora colocaré el nombre del archivo en este caso.
+
+Hola Mundo, punto Pelle.
+
+Y cuando yo hago esto acá, me está diciendo me estás saltando, está alerta.
+
+Si a mí me sale esta alerta porque yo tengo instalada la versión 2, vamos a probar Python y ahora si
+
+el nombre del archivo ahí está bien, fijate en dado caso no te funcione Python 3 colocas solo paito.
+
+Si no te funciona solo Python, entonces Python 3 seguido del nombre del archivo y ya se te va a ejecutar.
+
+En este caso yo porque tengo la versión 2 también.
+
+En tu caso con poner Python 3 es más que suficiente.
+
+Todo esto los podemos ahorrar si trabajamos con Visual.
+
+Por eso te recomiendo que trabajemos con Visor.
+
+Pero bueno, siguiendo acá, yo puse un hola mundo y me está mostrando la mundo.
+
+Es exactamente lo que yo puse acá.
+
+Si pongo, por ejemplo, cualquier cosa ahí, es importante que yo guarde para guardar, es control
+
+ese y acá yo tengo que volver a ejecutar de la misma manera.
+
+Peyton, seguido del nombre del archivo, mira cómo me está saliendo el nombre, el nombre, el mensaje,
+
+perdón, y así es como se ejecuta.
+
+Si vas a trabajar desde visual, desde.
+
+Es una.
+
+Fíjate como es un proceso largo.
+
+Para mí es muy tedioso hacer todo esto muy aburrido y definitivamente me va a llevar mucho tiempo.
+
+Ahí es donde entra en el Visual Studio Code.
+
+Mira como vamos a hacer, comienza el estudio con esta carpeta la voy a eliminar ya una Z.
+
+Crea una nueva carpeta.
+
+Con un nombre respectivo, por ejemplo, curso Python.
+
+Estoy colocando este curso Paito y ahora lo mismo trae esta carpeta y bueno, arrastra hacia Visual,
+
+corre hacia acá.
+
+Esperemos a que cargue.
+
+Nos va a preguntar si nosotros somos los autores o si es de confianza.
+
+Simplemente vamos que si.
+
+Y ya está.
+
+Bien, fíjate cómo desde aquí nosotros ya tenemos.
+
+En el workspace, la carpeta.
+
+Si yo presiono acá, nosotros creamos una nueva carpeta.
+
+Por ejemplo.
+
+Introducción La falta y la tilde, pero bueno, con este símbolo, con este botón, nosotros creamos
+
+una nueva carpeta.
+
+Aquí yo le puse esta introducción.
+
+Ahí está.
+
+Con esta otra nosotros creamos un nuevo archivo.
+
+Voy a poner Hola Mundo, punto Pelle.
+
+Recuerda, el PI es importante para que lo reconozca como archivo paito.
+
+Ahora, si yo vengo a la carpeta, fíjate cómo está la carpeta creada y el archivo también.
+
+Todo lo he hecho desde Visual con.
+
+Ahora voy a colocar las mismas líneas de código que ya había colocado.
+
+Hola Mundo.
+
+Y ahora no es necesario que abramos ninguna consola ni nada.
+
+Nosotros instalamos una extensiÃn de Python en Visual Code, así que con darle a este play que sale
+
+por acá es más que suficiente.
+
+Damos el play y acá se nos abre la terminal y fíjate cómo se está ejecutando.
+
+Y así es como nos ahorramos mucho trabajo en lugar de utilizar sublime text.
+
+Por ejemplo, este cambio impresionó Play ahí está mostrando, pero de esta forma es como se guardan,
+
+se ejecutan y se almacenan los archivos.
+
+Peyton yace en el sublime text o en visual.
+
+Ahora, si dejo esta clase hasta acá, es protesta de que hayas aprendido.
+
+Procedamos ahora así con la programación como tal, así que nos vemos en la próxima clase.
+
+Muchas gracias por ver.
+
+Éxitos y hasta la próxima.

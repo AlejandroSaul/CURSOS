@@ -1,0 +1,145 @@
+Bueno, vamos a una nueva elección en la que descargaremos nuestro entorno de programación hasta el
+
+momento hemos nada más instalado Python, la versión 3.10 que la más actual.
+
+Ahora vamos a instalar algo que se llama editor de código.
+
+A grandes rasgos y de manera simple, un editor de código es un programa que nos permite, valga la
+
+redundancia, programar este editor de código.
+
+Nosotros colocaremos eso, nuestro código.
+
+Él lo va a leer y lo va a ejecutar para el caso del curso.
+
+Vamos a utilizar Visual Studio Code.
+
+Ahora bien, va a llegar un momento en el que probablemente tengamos que cambiar de editor de código
+
+y pasarnos a otro.
+
+Te lo voy adelantando porque es muy probable que esto ocurra, pero eso lo veremos un poco más adelante
+
+en el transcurso de este curso.
+
+Vamos a instalar esa instalación de Visual Studio Code.
+
+Primero necesitamos un navegador.
+
+En mi caso con oxi, la Firefox es más que suficiente.
+
+Y acá en el buscador coloca Visual Studio Code.
+
+Ahí está bien.
+
+Entra a la primera página que te sale acá, que si no la logras ver es con punto de vista.
+
+Lo es todo.
+
+Punto.
+
+Com.
+
+Vamos a entrar acá.
+
+Aquí viene un punto importante.
+
+No vayas a confundir Visual Studio Code con Visual Studio.
+
+De hecho, te voy a enseñar qué es Visual Studio.
+
+Si yo pongo acá Visual Studio son programas totalmente diferentes.
+
+Vas a ver como en Visual Studio es un IDE.
+
+La diferencia entre un IDE y un editor de código es que el editor de código solo sirve para codificar.
+
+Entonces fijate cómo acá el símbolo es morado.
+
+Ambos son de Microsoft, tanto Visual Studio como Visual Studio.
+
+Ahora bien, el que nosotros vamos a utilizar es Visual Studio Code.
+
+No vayas a confundirte con este morado.
+
+Este no lo vamos a utilizar nada más.
+
+Te enseñamos para que no te confundas.
+
+El que nosotros vamos a utilizar es hasta Sol.
+
+Este Visual Studio Code, de hecho, también se le conoce como Visual Code.
+
+Yo lo voy a decir así en algunos casos, así que no te vayas a confundir.
+
+Vamos a descargar.
+
+Por defecto, reconoce que tengo Windows.
+
+Vamos a guardar este archivo y ahí.
+
+Bueno, pues ya estaría iniciada la descarga aquí.
+
+Lo mismo que con Paito te va a reconocer de manera automática tu respectivo sistema operativo.
+
+Voy a esperar a que finalice la descarga y continuamos cuando justamente termine.
+
+Bien, aquí ha finalizado la descarga.
+
+Vamos a cerrar esto no lo necesitamos y eso te va a descargar este instalador aquí el mismo proceso.
+
+Damos clic derecho.
+
+Correr como administrador nos va a pedir permisos, tal como cualquier otro programa damos que si vamos
+
+a hacer cierta modificación acá y es importante que no te asustes si te sale esto que tenemos por acá,
+
+simplemente da en OK y nada más.
+
+Bien, una vez hecho eso nos muestra acá bueno, los términos y condiciones que nadie lee, así que
+
+vamos a aceptar y damos en Next.
+
+Aquí va a seleccionar en qué carpeta se va a instalar.
+
+No toques nada, no es necesario.
+
+Damos en Next Next y aquí.
+
+Bueno, hay que añadir al escritorio si quieres el icono en el escritorio y aparte de eso puedes ya
+
+nada.
+
+Estas dos opciones nada más como dato son para Windows Explorer, nadie utiliza esa cosa, pero bueno,
+
+nada más.
+
+Como dato siguiente instalamos y ya con esto sería suficiente para instalar nuestro editor de código.
+
+Como ya sabes, te voy a dar varias opciones para que programa es completo.
+
+Yo te recomiendo que tomes esta por casi tres horas.
+
+Algún error con otro editor?
+
+No voy a poder ayudarte.
+
+Por ende, es necesario que tomes este las otras opciones te las doy a modo que que te queden.
+
+En todo caso, como emergencia o parecido.
+
+Bien, aquí podemos dejar eso seleccionado.
+
+Vamos a finalizar, se nos va a abrir de manera automática y ya de esta forma, con el visual código
+
+abierto es más que suficiente para saber que lo hemos instalado de manera correcta.
+
+Así que sin más, me despido.
+
+Vamos ahora con. con una clase que es bastante importante, pero por el momento hemos finalizado.
+
+Así que sin más, me despido.
+
+Muchas gracias por ver.
+
+Éxitos y hasta la próxima.
