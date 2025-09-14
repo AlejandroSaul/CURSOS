@@ -5,7 +5,7 @@ if(saludo){
     console.log(saludo)
 }
 console.log(saludo)
-//let, variales liitadas al alcance del bloque donde las definimos
+//let, variales limitadas al alcance del bloque donde las definimos
 let nombre = 'CIAPFA'
 if(nombre){
     let nombre= "HOLA"
