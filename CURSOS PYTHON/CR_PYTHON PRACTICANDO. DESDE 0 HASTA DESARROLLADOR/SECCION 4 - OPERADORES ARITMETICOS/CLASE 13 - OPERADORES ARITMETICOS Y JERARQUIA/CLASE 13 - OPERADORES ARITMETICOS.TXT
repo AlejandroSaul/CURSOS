@@ -1,0 +1,275 @@
+Bien, vamos a una clase teórica porque vamos a arrancar un nuevo tema referente a los operadores aritméticos
+
+y también a la jerarquía de operaciones.
+
+Vamos a hablar sobre esto de manera teórica en esta clase, como siempre, acompañando la teoría con
+
+la práctica y de igual manera vamos a haber ciertos operadores aritméticos que no son muy comunes de
+
+ver en las matemáticas normales.
+
+En especial el módulo.
+
+Cuando yo digo pero aritmético y relacionado con las matemáticas, porque fui adelantando que justamente
+
+un operador aritmético es exactamente el mismo que ves en matemáticas y por jerarquía, sí, también
+
+te adelanto que es el orden en que se realiza una operación.
+
+Pero bueno, vamos a ver de manera más detallada esto, así que comencemos.
+
+Primero.
+
+Que son los operadores aritméticos, bien, los operadores aritméticos son símbolos especiales que representan
+
+cálculos.
+
+Por ejemplo, la suma, la multiplicación.
+
+Los valores a los cuales se les aplican estos operadores reciben el nombre de operandos.
+
+Cuando estas en bueno, aquí se le dice primer ciclo.
+
+Quizá en tu país se le diga a parvularia bueno, cuando estás en la escuela a ti se te enseña suma,
+
+resta, multiplicación, división.
+
+El símbolo de la suma, el símbolo, la multiplicación, el símbolo de la resta.
+
+Y así cada uno de estos símbolos.
+
+Bien, pues esos símbolos son los operadores aritméticos en programación se aplican si se aplican y
+
+justamente son estos mismos los que vamos a tratar a partir de acá en adelante.
+
+Estos operadores aritméticos hacen eso, representan cálculos, cálculos matemáticos.
+
+No necesariamente tienes que hacer un cálculo matemático en programación.
+
+Ya vas a notar que también podemos hacer cálculos por medio de cadenas de texto.
+
+Pero bueno, eso lo veremos más adelante.
+
+Y pues cada uno de estos valores que nosotros vamos a tomar como operador aritmético junto con el operador
+
+y métrico se le llama operando, o sea, las cifras que vamos a sobre las que vamos a actuar con nuestra
+
+respectiva matemática.
+
+Bien.
+
+Hablemos sobre los operadores más comunes que existen.
+
+Primero, la suma.
+
+Bueno, yo hablo de esto más simplemente, pues añadir unas cifras sobre otra.
+
+Aquí tenemos el ejemplo de 2+2.
+
+Eventualmente va a dar 4.
+
+Eventualmente siempre va a dar 4.
+
+Entonces esta suma, el símbolo que representa la suma, es la cruz, o sea, el más.
+
+Aquí tienes un ejemplo, incluso por medio de una variable suma, que en este caso sería la variable
+
+es igual a 10 más 100 que eso va a dar 110.
+
+Este es un ejemplo.
+
+Es el primer operador, la suma sin operador.
+
+La resta.
+
+Tenemos acá, en este caso, una una resta, ya sabes.
+
+También eso se ve en matemáticas básicas.
+
+El símbolo de la resta es el guión.
+
+Ese es el que hace una resta.
+
+Y en este caso tenemos 90 menos 70.
+
+Eso va a dar 20.
+
+Y también tenemos agregado a una variable.
+
+Tenemos la resta.
+
+De ahí que sería la resta.
+
+La variable va a ser igual a setenta y nueve menos 12, que se va a dar sesenta y siete.
+
+Siguiente operador la multiplicación.
+
+Para el caso de la multiplicación, el símbolo es el asterisco, al menos en un lenguaje de programación,
+
+es el asterisco.
+
+En este caso tenemos el ejemplo 10 por 10 va a dar 100 y también tenemos puesto el ejemplo hacia una
+
+variable multiplicación, variables multiplicación.
+
+Recuerda que si bien multiplicación lleva tilde en una variable, jamás vas a poder poner en la piel.
+
+Es parte de la reglamentación de las variables.
+
+Entonces ahí tendríamos multiplicación, que va a ser igual a 70 por 10 para dar un total de 700.
+
+Siento operador la división por división.
+
+Tenemos la barra.
+
+Algunos le dicen barra, algunos dicen placa en la barra.
+
+Tenemos 100 entre diez que va a dar 10 y también puesto en una respectiva variable.
+
+Tenemos ahí la división de nuevo, sin poner la enlacen el acento 93 en que simplemente va a dar un
+
+resultado.
+
+Acá tendríamos el último operador aritmético, que es de los comunes.
+
+Estos son los que siempre se enseñan en la escuela.
+
+Suma, resta, división, multiplicación.
+
+Ahora bien, cuando hablamos de programación vamos a tener un operador que se llama módulo.
+
+El módulo para que lo entiendas, primero hay que repasar ciertos ciertos elementos de una división.
+
+Primero, que es el módulo, es un operador que sirve para tomar en cuenta la parte del resto.
+
+Resto o residuo de una operación en específico la división.
+
+Fíjate acá.
+
+En la imagen tenemos 24 entre dos.
+
+Eso va a dar 12.
+
+Si te fijas, el 24 es se llama dividendo.
+
+Él 2.
+
+Se le llama divisor.
+
+El cociente es el resultado de esta división, en este caso 2, mientras que la última.
+
+El último elemento es el resto.
+
+El resto o residuo determina cuánto va a sobrar luego de realizar una división.
+
+Quiero que te fijes en eso.
+
+El módulo evalúa el residuo o resto no va a evaluar el cociente, ni los dividendos, ni el divisor.
+
+El módulo va a evaluar el resto.
+
+Quédate con ese dato porque más adelante nos va a cerote para que lo comprendas.
+
+Siguiente Exponerse hacia aquí puede llegar a variar algunos lenguajes son el doble signo de multiplicación.
+
+Otros son pues ese como techito que se le hace, que está en el chip Zeus y algunos lenguajes.
+
+Simplemente se utiliza una función llamada PA.
+
+Vamos a verlo más adelante acá, pues la forma más común de ponerlo yo lo puse de esta forma españolización
+
+100 por 100 elevado a la 10.
+
+Entonces no es 100 por 10, es cien por cien por cien por cien, diez veces.
+
+O sea, la cantidad que nosotros hayamos elevado ahí lo tenemos en base a una variable exponencial va
+
+a ser igual a 90 al cubo, o sea elevado a la 3, osea 90 cornamentas por momento.
+
+El siguiente es la división entera en algunos lenguajes, esta división entera no existe como tal.
+
+Cuál es la diferencia entre la división y la división entera?
+
+Una división nos va a traer todo en relación a los decimales.
+
+Una división entera nos va a traer sólo la parte entera de la del del cociente.
+
+Tenemos ahí 40 entre dos.
+
+Eso, pues, va a dar un total de veinte, pero va a dar veinte.
+
+Nada más.
+
+Sólo eso.
+
+Tenemos otra división ahí, enfocada a una variable que es noventa entre cinco, pero nada más nos va
+
+a dar la parte entera.
+
+Si en dado caso tanto divisor como dividendo son cifras que va al cociente con decimal.
+
+La división entera nos va a mostrar ese decimal.
+
+Ahora bien, pasemos al siguiente tema Jerarquía de operaciones.
+
+Primero, que es una jerarquía, pues cuando se presentan muchas operaciones aritméticas, la jerarquía
+
+determina el orden en que en que deben realizarse estas operaciones.
+
+También es un tema bastante básico, no necesariamente de los lenguajes de programación.
+
+Es matemática básica.
+
+La jerarquía va a ser el orden de operación que se va a llevar cuando se tengan distintos procedimientos
+
+aritméticos, decir los procedimientos matemáticos.
+
+Por ende, en los lenguajes de programación se cumple casi igual, porque algunas veces tiende a variar
+
+esto de la jerarquía.
+
+Veamos que es lo que resuelven los lenguajes primero.
+
+Cuál es el orden de operación?
+
+Paréntesis es lo principal y primordial con el lenguaje de programación va a resolver.
+
+Es lo primero que se realiza en una operación matemática y no solo en una operación matemática, sino
+
+que también en una operación de lenguaje.
+
+Por ende, los paréntesis son lo primero a realizar.
+
+Luego el lenguaje va a buscar si hay alguna exponencial y la va a realizar si se detecta esta desviación
+
+luego de que no hayan paréntesis.
+
+Entonces es el siguiente proceso que se va a realizar.
+
+Siguiente La multiplicación y división sigue en la operación en divisiones y multiplicaciones.
+
+Se van a hacer en tercera.
+
+En tercer orden.
+
+O sea, en el penúltimo escalón de la jerarquía.
+
+Y el último es la suma y la resta iniciando de izquierda a derecha.
+
+Este es el orden que se sigue como tal cuando se hacen operaciones aritméticas, no necesariamente matemáticas,
+
+sino que también en un lenguaje de programación.
+
+Por ende.
+
+Pues esto es matemática básica, elemental, simple, de la más sencilla.
+
+Así que bueno, de esta forma es como finalizo esta clase teórica.
+
+Ahora sí, procedamos con la práctica que hay detrás de esta teoría y por un momento hemos finalizado.
+
+Así que sin más, me despido.
+
+Muchas gracias por ver.
+
+Éxitos y hasta la próxima.
