@@ -1,0 +1,273 @@
+Bueno, vamos a un nuevo tema, en este caso va a ser un tema teórico, el cual es las cadenas de texto.
+
+Vamos a ver en esta clase de manera teórica, ciertos detalles que debes de tener presente en relación
+
+a las cadenas.
+
+Es un tipo de dato bastante importante, bastante diferente a los números, a los enteros, a los flotantes.
+
+Así que es necesario que lo veamos, en especial porque una cadena siempre va a presentar métodos.
+
+Los métodos son otra forma, otras funcionalidades que se le pueden dar a las cadenas.
+
+Lo veremos más adelante, obviamente, pero por el momento vamos a ver estos datos teóricos.
+
+Comencemos primero.
+
+Especificar que es una cadena.
+
+Una cadena o string, que es lo mismo, es una secuencia caracteres, un caracteres, una letra, y
+
+cuando nosotros tomamos varias letras, varios caracteres y los ponemos en secuencia, ya sea lógica
+
+o ilógicamente, entonces ahí es donde se forman las cadenas, los strings.
+
+Ahora bien, el hecho de que nosotros tengamos cadenas no quiere decir que específicamente tengamos
+
+que llevar un orden lógico.
+
+Una cadena puede ser como Double, BRT y Grega, que son las primeras seis letras de tu teclado que
+
+uerte y el segundo no tendrían sentido.
+
+Otra cadena puede ser un mensaje, por ejemplo, cadena, cadena puede ser otro mensaje.
+
+Ya lo hemos visto en una introducción rápida en el tema de las variables.
+
+Pero pues eso, una cadena no necesariamente tiene que ser un mensaje legible, siempre y cuando tenga
+
+varios caracteres.
+
+Una secuencia de caracteres es suficiente para que sea una cadena.
+
+Bien.
+
+Tenemos acá, por ejemplo, Monty Paito.
+
+Es un ejemplo de cadena.
+
+Fíjate bien, no?
+
+Siguiente.
+
+Esto no siempre va a ser así.
+
+Yo te voy a especificar en qué puntos esto se cumple y en qué puntos no se cumple.
+
+Tenemos acá Monty Python.
+
+Es una cadena.
+
+Por qué?
+
+Porque tiene varios caracteres.
+
+Tiene m o n t y espacio.
+
+El espacio cuenta p y a t h o n Monty Python.
+
+Cada uno de estos caracteres tiene un espacio en la cadena.
+
+Puedes verla abajo 0 1 2 3 4 5 6 7 8 9 10 11.
+
+Ahora bien, estos espacios es importante que los tengas presentes.
+
+Por qué?
+
+Porque las cadenas van a ocupar un espacio, pero a su vez cada caracter dentro de la cadena va a ocupar
+
+otro espacio.
+
+Que quiere decir que si yo mando a llamar a un espacio 4 lo que me va a mostrar es y griega de monte
+
+y de Monty a en algunos casos la cuenta es así 0 1 2 3, empezando por el 0 la primer letra.
+
+En otros la cuenta no es así.
+
+La cuenta es 1, 2, 3, empezando la M que es la primera y en otros el cero va a ser la comilla que
+
+no se cuenta.
+
+Pero hay algunas excepciones en las que si yo te voy a especificar en que punto se cumple cada una de
+
+estas reglas, pero quédate con este dato dentro de las cadenas.
+
+Cada uno de los caracteres ocupa un espacio para que lo tengas presente.
+
+Vamos a un tema que es el devanado de cadenas.
+
+La gran mayoría de lenguajes permita Esteban Cadenas JavaScript Peyton si jar y así cada uno de los
+
+lenguajes que es un devanado de cadenas, lo único que cambia es a veces se le llama slide slice perdón,
+
+a veces se le llama devanado.
+
+Quédate con devalúan de cadenas.
+
+Consiste en mostrar contenido de una cadena de manera segmentada que quiere decir que nosotros, por
+
+medio de instrucciones predeterminadas, sólo vamos a mostrar un espacio de la cadena.
+
+Se lo vamos a mostrar un conjunto de letras.
+
+Se lo vamos a hacer unas cuantas palabras.
+
+A eso se le llama devanado de cadenas.
+
+Cuando nosotros queremos mostrar una cadena, pero solo por segmentos, solo por fragmentos de la misma
+
+cadena.
+
+Veamos un ejemplo de este tipo de devanado vamos a hacer lo siguiente.
+
+Tenemos el ejemplo Monty Python.
+
+Esto no se va a aplicar en todos los lenguajes de programación.
+
+Tenlo presente.
+
+Yo te voy a explicar en qué momento se ocupa una regla.
+
+En qué momento se ocupa otro devanado?
+
+En qué momento se ocupa una banda diferente y así.
+
+Pero observa.
+
+Yo, por ejemplo, puedo mandar a llamar del 0 al 5.
+
+Que me va a traer Monte.
+
+Por qué?
+
+Porque el 05 es pa monte.
+
+Del bueno espacio al 3, eso que me va a traer.
+
+Las primeras tres letras, o sea Mon.
+
+Y luego del tres dos puntos, es espacio en blanco que me mostraron.
+
+Ese es un tipo de devanado diferente, Esteban lo que me va a traer es las últimas tres letras de la
+
+cadena.
+
+Vamos a manchar acá, voy a hacer esto por acá.
+
+Así.
+
+Bien, observa.
+
+Tenemos nuestra.
+
+Nuestro string, nuestra cadena acá.
+
+Cada espacio, cada letra, cada carácter, ocupa un espacio en la cadena.
+
+Fíjate bien, la M es el espacio cero, la ola apasiono y así.
+
+Bueno, yo voy a mandar a traer desde el espacio cero, empezando el espacio cero hasta el espacio cinco,
+
+y quiere decir que yo voy a traer cero uno dos tres cuatro cinco.
+
+Aquí de hecho, me faltó.
+
+Así es como funciona el devanado.
+
+Luego el siguiente es de acá abajo.
+
+De este espacio nulo lo veremos más adelante en la práctica hasta el 3.
+
+Quiero decir que voy a empezar desde el cero cero uno dos tres.
+
+Y solo me va a traer month.
+
+Acá hay algo que no te he mencionado.
+
+Cuando nosotros utilizamos el devanado, este 0 pasa a ser la comida.
+
+Así entonces, imagínate que este es el 1.
+
+Este es el 2.
+
+Este es el 3.
+
+Y así con cada uno.
+
+Por eso es que cuando yo hago este devanado así, le estoy diciendo que empiece el 0 al 3, por ende
+
+empieza 0, 1, 2 y 3.
+
+Y por eso es que trae Solomon.
+
+Lo mismo acá del 0 al 5 0 1 2 3 4 5.
+
+Cuando usamos devanado.
+
+Esto es así.
+
+En algunos casos.
+
+En otros no se lo estoy avisando ya, ya más adelante.
+
+En la práctica, si no comprendes esto, lo veremos más detalladamente luego desde el 3 hasta el cero.
+
+Esto lo hace a la inversa.
+
+Empieza uno, dos, tres y ahí está.
+
+Ok.
+
+Y así es como funciona este devanado.
+
+Es un dato complicado de entenderlo, así, de manera teórica y de la forma en que te lo he explicado.
+
+Pero lo veremos más adelante en la práctica.
+
+Como todo, hay también reglas, las reglas de las cadenas.
+
+Veamos cuáles son.
+
+Cuando nosotros vayamos a escribir cadenas, es importante que estas cadenas, estas strings, sean
+
+escritas entre comillas dobles o copia simple.
+
+Cualquiera de las dos funciona, ya lo veremos más adelante.
+
+De esta forma le estaremos diciendo al lenguaje que justamente es una cadena y no que es un número.
+
+Por ende, si haces eso, pues esa es la regla.
+
+Luego no hay que confundir un número entre comillas a un número sin comillas cuando nosotros tenemos
+
+un número entre comillas.
+
+Eso es una cadena, aunque sea un número el que esté dentro.
+
+Eso es una cadena.
+
+Por qué?
+
+Porque tiene las comillas.
+
+Si el número no tiene comillas, ya sea dobles o sencillas, eso es un número.
+
+Entonces no lo confundas.
+
+Por ejemplo, tiene que ser 4 entre comillas y el 4 sin comillas.
+
+El 4 entre comillas es una cadena, es una string.
+
+El 4 5 millas es un número.
+
+Así que bueno, de esta forma es como finalizó esta clase.
+
+Ahora sí procedamos con la parte práctica.
+
+Si no comprendiste estos términos de manera teórica, los vas a comprender en la práctica.
+
+Así que sin más, me despido.
+
+Muchas gracias por ver.
+
+Éxitos y hasta la próxima.
