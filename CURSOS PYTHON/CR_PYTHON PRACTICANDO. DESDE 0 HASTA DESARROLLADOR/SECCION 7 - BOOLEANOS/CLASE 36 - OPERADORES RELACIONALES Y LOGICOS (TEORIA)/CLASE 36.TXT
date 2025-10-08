@@ -1,0 +1,397 @@
+Procedemos con una nueva clase teórica, ya que arrancamos con un nuevo tema, diferente a los que ya
+
+hemos estado viendo alrededor de todo el curso y en esta ocasión quiero hablar sobre los operadores
+
+relacionales y lógicos.
+
+Ya hemos visto los datos y los tipos de datos, los operadores aritméticos.
+
+Y es momento que procedamos con otro tipo de operadores, que son los operadores relacionales y lógicos,
+
+son otras grandes características de un lenguaje de programación y es necesario que los veamos.
+
+De hecho, se repiten bastante entre el lenguaje y el lenguaje.
+
+Son temas casi que fundamento de todos los lenguajes.
+
+Así que es normal y es importante que lo veamos.
+
+Comencemos describiendo qué es exactamente un operador relacional.
+
+Bien.
+
+Un operador relacional hacen referencia a condiciones entre datos y también pueden ser visto como comparaciones
+
+de manera simple y sencilla.
+
+Un operador relacional nos va a permitir comparar cuando ya se combinan esto con condicionales con estructuras
+
+de control de flujo.
+
+Pues ahí procedemos a llamarlos condicionales, o sea, condicionales.
+
+Sin embargo, los operadores relacionales por sí solo se lo podría decir son comparaciones, comparaciones
+
+de una cifra con otra, de un tipo de dato con otro, comparaciones entre datos.
+
+Por ende, un operador relacional, como te digo por si solo, es comparar.
+
+Esto es subjetivo.
+
+Ahora bien, si se combina por ejemplo con if con el consejo, también si se combina con los bucles
+
+for, while y demás, ahí si ya recurrimos a llamarlos condiciones porque van a ser condiciones que
+
+se deberían de cumplir, lo veremos más adelante.
+
+Quédate con eso, que los operadores relacionales son y sirven para hacer comparaciones.
+
+Veamos que operadores existe.
+
+Aquí va a depender del lenguaje como tal.
+
+Que quiere decir no todos los lenguajes son iguales, no todos los lenguajes son idénticos.
+
+No, yo te voy a explicar, al igual que como te expliqué con el ejemplo de las cadenas, las cadenas
+
+de más, yo te voy a explicar cuáles se aplican en cada escenario.
+
+Si no, pues simplemente te lo voy a describir.
+
+Pero bueno, estos son a grandes rasgos los operadores relacionales que generalmente la gran mayoría
+
+de lenguajes posee.
+
+Tenemos un total de seis.
+
+A veces estos tienden a cambiar entre lenguajes, sigan cumpliendo la misma función, pero un poco diferente
+
+en la forma de escribirlos.
+
+Hablemos de cada uno de ellos.
+
+El primero, el doble igual.
+
+El doble igualmente, este doble igual se llama igual que.
+
+Este qué es lo que hace?
+
+Pues me va a comparar dos datos y me va a retornar si son iguales o no. No hay que confundir el doble
+
+igual con un solo igual.
+
+Aquí tenemos un doble igual y ese se le llama igual que al que solo tiene un igual, se le llama igualación
+
+en términos casi casi del mismo nombre, pero que significa completamente algo diferente.
+
+Tenemos aquí el ejemplo 5 es igual que 69.
+
+Eso es falso, es falso.
+
+Por qué?
+
+Porque 5 no es igual a 69.
+
+Hay una diferencia de 64 números entre 5 y 69.
+
+Por ende, nos está devolviendo un fours.
+
+Ahí tenemos el falso siguiente.
+
+Es el diferente de.
+
+Es el símbolo de exclamación.
+
+Seguido de un símbolo de igual este que es lo que hace, bueno, pues lo que hace es comparar si dos
+
+datos son diferentes entre sí.
+
+Por eso se llama diferente.
+
+Tenemos el ejemplo 5.
+
+Es diferente de 3.
+
+Eso nos devuelve como respuesta true, o sea verdadero.
+
+Por qué?
+
+Porque justamente 5 y 3 no son el mismo número.
+
+Son números completamente diferentes, de hecho.
+
+Bueno, hay dos cifras entre ellos, pero no dejan de ser diferentes.
+
+Por ende, ese ese operador relacional hace eso verificar si un número diferente de otro.
+
+Tenemos un tercer operador relacional que es el menor que por menor que nosotros vamos a entender.
+
+De hecho, aquí recurrimos a cosas matemáticas también, porque es menor, qué mayor, qué menor igual
+
+o mayor igual.
+
+Son cosas que eventualmente se ve en la escuela, se podría decir, y son cosas de matemáticas.
+
+Acá es bueno ese, como en realidad es el símbolo de menor.
+
+Qué?
+
+Pero es como.
+
+Como un techo inclinado, como un techo y viendo hacia la.
+
+Hacia la izquierda.
+
+Bien, ese es menor que este, que es lo que va a hacer.
+
+Va a verificar si la cifra o la cifra de la izquierda es menor que la cifra de la derecha.
+
+Tenemos aquí el ejemplo 6 es menor que 20.
+
+Bueno, pues me confundí y lo puse fols.
+
+Pero el resto eso es dato, simplemente pasa por alto.
+
+Ese fols que le puse ahí es 6, es menor que 20.
+
+Eso es todo.
+
+Por qué?
+
+Por qué 6?
+
+Si es menor a 20?
+
+Tiene un total de 14 cifras de diferencia.
+
+Por ende, 6 si es menor que 20, vamos al siguiente mayor.
+
+Qué es la contraparte menor?
+
+Qué este valor?
+
+Si la cifra que está a la izquierda es mayor que la que está a la derecha?
+
+Aquí lo tenemos.
+
+El ejemplo 100 es mayor que uno, es vuestro.
+
+Eso es verdadero.
+
+Por qué?
+
+Porque hay noventa y nueve cifras de diferencia entre el 100 y el 1, por ende 100 si es mayor que 1.
+
+Por eso me devuelve que es que verdadero.
+
+Luego los dos últimos son se podría decir que la misma regla que el mayor y el menor, que con la diferencia
+
+que se le agrega el igual que quiere decir veamos el primero menor o igual que este menor o igual que
+
+es bueno, ese techito hacia la izquierda seguido de él igual.
+
+Cuál es la única diferencia?
+
+Bien, la única diferencia es que ahora se le agrega el igual, que significa que ahora la forma de
+
+comparar.
+
+Ahí tenemos el ejemplo 90 es menor o igual a 90?
+
+Eso da trabajo.
+
+Por qué razón?
+
+Porque si bien 90 no es menor a 90, si yo le he puesto es igual, es igual, hace la diferencia.
+
+Entonces se evalúa.
+
+90 es menor al 90?
+
+No, 90 es igual a 90?
+
+Sí.
+
+Y como él es menor o igual, entonces esto porque 90 si es igual a 90.
+
+Lo mismo para el mayor o igual para el caso del mayor?
+
+O igual qué?
+
+Pues tenemos ahí el techo de a la derecha seguido de él.
+
+Igual el ejemplo 100 es mayor o igual a 101.
+
+Eso es falso, porque para empezar no es igual a 101 y tampoco es mayor, es menor.
+
+Eso serían los operadores relacionales.
+
+Vamos ahora con unos operadores lógicos, veamos de que se trata.
+
+Hacen referencia a condiciones entre datos y también pueden ser vistos como comparaciones, es lo mismo
+
+con operador relacional.
+
+La definición si, al menos la que yo he puesto acá, si es la misma.
+
+La única diferencia es que son completamente diferentes a los operadores relacionales.
+
+Yo he puesto que la definición igual porque es una forma sencilla y fácil de entenderla.
+
+De hecho, ni siquiera vas a tener que memorizar esta definición con que entienden los operadores lógicos
+
+y relacionales.
+
+Es más que suficiente.
+
+Pero la puse así igual para que se entienda fácilmente.
+
+Vamos a ver cuáles son los operadores lógicos.
+
+Fíjate cómo tenemos acá esta tabla.
+
+Tenemos tres, tenemos And or y not.
+
+Dependiendo del lenguaje, una vez más estos van a cambiar.
+
+Empecemos por.
+
+End descripción y tal cual en en inglés es i y pues y es y en español por ende es de la descripción.
+
+Esto un operador lógico complementa un operador relacional.
+
+Por qué?
+
+Porque va a conectar dos comparaciones para ver cuál es el resultado.
+
+Fíjate bien, el ejemplo 10 es mayor a 1.
+
+Eso nos va a dar verdadero veneno.
+
+Dice Ent.
+
+Ojo, dice en ahí está la palabra, en 70 es menor, igual a 70.
+
+Fíjate cómo en una sola línea tenemos dos comparaciones.
+
+Estamos utilizando dos veces los operadores relacionales.
+
+Entonces los operadores lógicos sirven para eso, para unir, para enlazar diferentes comparaciones.
+
+Acá, en este caso, 10 es mayor a 1.
+
+Si es verdadero y 70 es menor o igual a 70 es verdadero.
+
+Si ambas partes del end son verdaderas, el resultado es verdadero.
+
+Ya vamos a pasar a eso siguiente or or bien or traducido o.
+
+Tenemos el ejemplo 50 es mayor o igual a 80?
+
+Eso es falso.
+
+Por qué?
+
+Porque 50 no es ni mayor ni igual 80.
+
+O y tenemos el o?
+
+6 es igual a 6.
+
+Eso es verdadero, por ende lo que nos retorna es verdadero.
+
+Cuál es la diferencia entre el END y el OR que en el END?
+
+Ambas condiciones deben de ser verdaderas para que la respuesta sea verdadera.
+
+Mientras que en el por uno de los dos es suficiente que sea verdadero para que ambos sean verdaderos
+
+y el el not o sea no a lo que va a ser es cambiar el el resultado.
+
+Fíjate como tenemos 3.14 es mayor a tres.
+
+Si es mayor, entonces nos devuelve true.
+
+Sin embargo, si yo agrego un not nos va a devolver Fox.
+
+O sea, lo inverso cambia ese true a un Fox.
+
+Pasemos algo importante.
+
+Que son los resultados de los operadores END y OR.
+
+Cuando nosotros tenemos dos comparaciones en I ORT pueden ser utilizados, pero en qué casos se va a
+
+utilizar cada uno de ellos?
+
+Bien, imagínate que nosotros tenemos dos comparaciones.
+
+La primera, si la primera comparación es true y la segunda comparación es otro.
+
+Entonces el resultado va a ser true.
+
+Si la primera comparación da true y la segunda comparación default.
+
+El resultado va a ser false.
+
+Si la primera combinas la primera comparación.
+
+Y la segunda comparación da true, entonces este resultado va a ser folks, mientras que si ambas dan
+
+false, el resultado es falso.
+
+Qué es lo que el true?
+
+Lo que evalúa que ambas sean verdaderas hasta que ambas combina comparaciones no sean verdaderas.
+
+El resultado del jamás va a ser verdadero.
+
+Si una de las dos es falsas o ambas son falsas, el resultado va a ser falso.
+
+Vamos a ver, veamos cuál es la diferencia entre el AND y el OR.
+
+Fíjate.
+
+Con el por nosotros tenemos una.
+
+Se les puede decir como.
+
+Como condición diferente.
+
+Sin ambas son true.
+
+Si la comparación mundo y la comparación son comparación dos son true, entonces es el resultado true.
+
+Eso es lo que devuelve el OR.
+
+Si la primera comparación es true y la segunda es false, eso sigue siendo true.
+
+Por qué?
+
+Por qué se cumple una o la otra?
+
+Luego, si la primera es falsa y la segunda eso vuelve a dar otro.
+
+Si la primer comparación es Forst y la segunda es true, eso vuelve a dar otro y si ambas son false,
+
+pues eso o el Bedford.
+
+Fíjate cómo en el END es importante que ambas condiciones sean true para que devuelve true en el OR.
+
+Por otro lado, con una causa true esto es verdadero, mientras que en ambos, si ambas son falsas,
+
+son false.
+
+Si bien hemos visto esto de manera teórica, es muy probable que no la hayas entendido porque se vuelve
+
+un poco confuso si estás aprendiendo o si no conoces nada de programación.
+
+Por eso.
+
+Vamos ahora a la práctica, dónde vamos a ver esto de una manera un poco más detallada?
+
+Por el momento me despido.
+
+Muchas gracias por ver.
+
+Éxitos y hasta la próxima.
