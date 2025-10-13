@@ -1,0 +1,217 @@
+Bueno, iniciamos una nueva clase, una nueva sección, probablemente sea dividida en varias secciones,
+
+pero esta clase va a ser para todas.
+
+En esta clase vamos a hablar sobre las estructuras de datos más enfáticamente en listas, tuplas y diccionarios.
+
+Hay una infinidad de estructuras de datos, listas, diccionarios, tuplas con las arrays, arreglos.
+
+Hay una gran infinidad, pero nosotros nos vamos a adaptar dependiendo el contexto.
+
+Lo que voy a hacer en esta clase teórica, simplemente hablar de listas, tuplas, de diccionarios y
+
+si bien es un no es un término tan universal que digamos, si el tema de las estructuras de datos es
+
+importante que lo conozcas, si bien no lo vamos a aceptar como tal.
+
+Lo que sí vamos a aceptar son estos tres elementos que nos van a servir para que luego a posteriori,
+
+en la parte práctica, podamos comprender de manera más sencilla.
+
+Comencemos entonces primero, qué es una lista?
+
+La lista es un tipo de colección ordenada.
+
+Sería equivalente a lo que en otros lenguajes se le conoce como arrays o vectores.
+
+Una lista va a ser un conjunto de datos que están agrupados.
+
+Así de simple.
+
+En otros lenguajes a esto se le conoce como métodos, no con métodos, como arreglos, como arreglos.
+
+Un arreglo es un array, que es técnicamente lo mismo.
+
+Son espacios de memoria que tienen datos y que estos datos están ordenados.
+
+Y eso es todo.
+
+Las listas por lo general son para eso, para ordenar datos.
+
+Es muy importante las listas.
+
+Mira, ahí tenemos uno.
+
+Si te fijas, la sintaxis de una lista es la siguiente tenemos los corchetes y al medio de los corchetes
+
+están cada uno de los datos.
+
+Por ejemplo, tenemos el dato span, el dato 40, el dato treinta y cinco, punto ochenta y seis y el
+
+dato tortilla.
+
+Estos son los datos de la lista, son los elementos de la lista.
+
+Si te fijas, cada elemento va separado por una coma.
+
+Tenemos pan coma cuarenta coma treinta y cinco, ochenta y seis coma tortilla y así.
+
+De esa forma es como se va distinguiendo un elemento de otro.
+
+En este caso, cada uno de estos elementos ocupa una posición.
+
+El pan, la posición 0, el 40, la 1 35 86, aislados, tortilla, la 3, cada uno de estos elementos,
+
+cada uno de estos datos, ya sea números flotantes o cadenas de texto, o sea strings, van a ocupar
+
+un espacio.
+
+Pero fíjate en lo que quiero que te fijes es la sintaxis.
+
+Abrimos corchetes y colocamos cada uno de los distintos tipos de datos que queremos que estén en la
+
+lista.
+
+Siente las tuplas?
+
+Una copla es una secuencia de valores similar a una lista.
+
+La principal diferencia es que las tuplas son inmutables.
+
+Una tupla en realidad es una lista que no se puedes modificar.
+
+O sea que cuando un auto pla ya tiene sus datos, sus tipos de datos, sus valores, esos valores no
+
+se pueden cambiar en la lista.
+
+Todo lo contrario.
+
+En la lista nosotros podemos cambiar tantas veces como querramos los valores, pero en la tupla no la
+
+tupla.
+
+Estrictamente colocamos un valor y ese valor queda para siempre.
+
+Es como una constante.
+
+Veamos ahora las la sintaxis de la tupla.
+
+En realidad, la tupla.
+
+A veces se lo coloca entre paréntesis.
+
+Sin embargo, hay otras ocasiones en las que se puede llegar a colocar llaves, logros más adelante.
+
+Pero bueno, aquí tenemos paréntesis.
+
+Ojo, las teclas van con paréntesis y tenemos cada uno de los datos.
+
+Si te fijas, es exactamente lo mismo que la la lista.
+
+Tenemos acá el dato jugar coma veinti tres punto setenta y ocho coma.
+
+Juan coma tupla.
+
+Esos son los datos.
+
+Cada dato de nuevo ocupa un espacio en el espacio cero para jugar.
+
+El espacio no para 23.3 dentro de ocho.
+
+El espacio para Juan, el espacio 3 para tupla, pues cada uno de estos datos justamente sirve para
+
+eso, para agruparlos.
+
+Es exactamente lo mismo que una lista.
+
+La diferencia es que yo digamos que jugar no lo puedo modificar.
+
+23 78 no lo puedo modificar.
+
+Tupla No la puedo modificar.
+
+Los datos son inmutables.
+
+O sea, no se pueden cambiar.
+
+Qué son los diccionarios?
+
+Los diccionarios deben su nombre a que son colecciones que relacionan una clave y un valor.
+
+Cuando hablamos de un diccionario.
+
+Para empezar, un diccionario común corriente es ese donde buscas el significado de las palabras.
+
+Si te fijas, también podemos traer ahí la como la la analogía.
+
+El diccionario común corriente tiene la palabra, el nombre de la palabra y el significado de la palabra
+
+separados por dos puntos.
+
+Pues algo así va a ocurrir acá.
+
+Un diccionario va a ser lo mismo, una agrupación de datos en una estructura de datos.
+
+Pero aquí ya tienen una clave y un valor.
+
+Una clave va a ser un nombre que se le va a asignar a un conjunto o a un solo valor.
+
+Otro más reciente ejemplo.
+
+Acá tenemos un diccionario.
+
+Fíjate bien.
+
+Tenemos las llaves.
+
+Esa es la sintaxis de los diccionarios.
+
+Y luego uno, uno, pero en letras, ese uno en letras es la clave.
+
+Luego siguen los dos puntos y el uno en número es el valor.
+
+Por ende, cuando nosotros tengamos un diccionario vamos a tener clave valor.
+
+Aquí la clave unas letras equivalen al valor uno en número.
+
+Luego, separado por una coma, cada ya de cada valor va separado por una coma.
+
+Luego tenemos la clave dos, pero en letras, que es equivalente a un valor de dos en número.
+
+Luego coma.
+
+Bueno, a mí me faltó la coma tres en letra, que es la clave tres valor en número.
+
+Y así es como se van rellenando los diccionarios.
+
+Tienen una clave, un valor.
+
+La clave hace referencia a cómo un indicador, como un indicador de un valor.
+
+Y el valor es de valor.
+
+Y bueno, ahora sí hay que verlo en la práctica.
+
+Así que continuemos.
+
+Para conocer un poco más sobre las estructuras de datos.
+
+Como te digo, hay más.
+
+Simplemente la vamos a ver en la parte práctica, pero no creo que necesiten mayor explicación en una
+
+clase teórica.
+
+Eso lo vamos a ver más adelante porque son relativamente cortas.
+
+Vamos a ver todas las estructuras de datos que nos pueden resultar útiles.
+
+Y como te dije.
+
+Puede llegar a variar dependiendo del lenguaje, pero he tratado de ser lo más conciso por el momento
+
+me despido.
+
+Muchas gracias por ver.
+
+Éxitos y hasta la próxima.
