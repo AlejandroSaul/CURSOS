@@ -1,177 +1,127 @@
 Empezamos un nuevo tema teórico, al menos por el momento va a ser teórico y es el tema de los condicionales.
-
 Hasta el momento hemos visto las cosas básicas que componen el lenguaje.
-
 Pero ahora pasamos con un tema que es bastante común de ver, no necesariamente del lenguaje que trata
-
 este curso, sino que múltiples lenguajes lo ocupan y son los condicionales.
-
 Un condicional es lo que vamos a estar viendo en estas clases.
-
 Son técnicamente la elección o también la condición de diferentes elementos.
-
 Vamos a dar un poco más adelante por un momento.
-
 Comencemos de manera teórica, como siempre teórico práctico, viendo que es un condicional para empezar.
-
 Describamos que es un condicional.
-
 Bien, un condicional o condicionales son situaciones en las que pueden darse varios resultados dentro
-
 de un programa.
-
 Cuando nosotros estamos programando vamos a tener que llegar a un punto en el que utilizaremos estos
-
 condicionales.
-
 Los condicionales nos van a servir para crear diferentes eventos y situaciones que a partir de una condición
-
 se va a ejecutar de una u otra manera.
-
 Esto que significa?
-
 Bien, lo que significa es que el condicional es generalmente desglose de una condición y una condición.
-
 Recuerda, cuando vimos los operadores relacionales y lógicos es lo que va a estar determinando técnicamente.
-
 Es un operador relacional o un operador lógico?
-
 Va a ser una condición dada dependiendo de si se cumple un escenario u otro, pues el condicional va
-
 a ejecutar un código u otro.
-
 En programación tenemos dos que son técnicamente los de siempre, los condicionales de siempre.
-
 El primero es el IF.
-
 Un ir, al menos es la forma de colocar un condicional en diferentes lenguajes de programación, como
-
 por ejemplo Python, JavaScript, C++, sillar, pero literalmente significa sí.
-
 Pero este sí es de condición, no es un sí de afirmación.
-
 Ello, e incluso se me fue una tilde en ese sí que nos debería de estar, porque ahí ya es de afirmación.
-
 Y bueno, pues la diferencia entre un sí de afirmación y una condición es que cuando yo digo sí estoy
-
 afirmando, mientras que digo si la condición es si esto o si lo otro, entonces es una condición.
-
 En lo que respecta a los lenguajes de programación, es el más representativo de todos los condicionales.
-
 Y es eso un if de condición.
-
 El siguiente de estos que complementa mucho ir es el else.
-
 Todo ID debe llevar suelos, el cual significa, si no en dado caso, no se cumpla la condición del
-
 ir.
-
 Cuando ocupamos condicionales un mínimo vamos a tener dos caminos, a veces uno solo, pero es muy raro
-
 que eso ocurra, pero mínimo vamos a tener dos caminos.
-
 Justamente el IF es una parte del condicional y él él es la segunda parte que se va a ejecutar.
-
 Se En dado caso del IF no se llega a concretar su respectiva condición else.
-
 Tal cual traducido significa si no?
-
 Y esto nos permite colocar un segundo camino en la ejecución del código.
-
 Veamos el siguiente ejemplo de un hit y un Hertz tenemos hoy una niña y tenemos dos sorbetes no juzgues
-
 mi manera de dibujarlos en paint, pero bueno, tenemos dos sorbetes, tenemos sorbete que de hecho
-
 aquí se le llama sorbete.
-
 En algunos otros países se le llama helado de tamaño pequeño y otro de tamaño grande.
-
 Por ende, la niña puede escoger cualquiera de los dos.
-
 Bueno, pues eso es un condicional, una bifurcación de dos caminos en los que se va a llegar a uno
-
 de estos dos.
-
 Ahora bien, cuál es la condición?
-
 Bueno, pues la condición es que la niña escoja.
-
 Entonces, dependiendo qué es lo que ella escoja, pues se puede tomar pequeño de tamaño grande.
-
 Así puedes verlo de manera pues un poco más gráfica lo que hace la.
-
 Veamos un ejemplo, un poco más de flujograma.
-
 Observa esto.
-
 A eso se le conoce como ni siquiera es un flujograma.
-
 En realidad nada más es una representación de una condición condicionada.
-
 Tenemos ahí vacaciones, que sería el recuadro, mientras que por un lado tenemos ya sea vacaciones
-
 en un viaje o la otra opción sería vacaciones en casa.
-
 Cuál es la condición?
-
 Pues que tú escojas dónde pasar tus vacaciones.
-
 Dependiendo, pues, vas a ejecutar, ya sea un viaje o a ejecutar quedarte en casa.
-
 Eso va a depender de las condiciones que tu colocas.
-
 Hay otro tipo de condicional que se llama el IF.
-
 Un hit se utiliza cuando se van a combinar varias opciones que se van a escoger en un programa.
-
 El IF es la combinación de múltiples condiciones a partir de un camino que no necesariamente debe de
-
 ser seleccionado por.
-
 Por dos nada más y por dos o dos caminos.
-
 Un LP sirve para eso, para anidar diferentes, diferentes condiciones.
-
 Aquí podemos ver un eclipse.
-
 Observa, tenemos vacaciones.
-
 Ahora las vacaciones las podríamos tomar de viaje o en casa.
-
 En dado caso decidamos tomar nuestras vacaciones de viaje.
-
 Tenemos otras dos opciones.
-
 Otros dos caminos tenemos por 10000 dólares playa, hotel y avión, o por 20000 el extranjero, hotel
-
 y avión.
-
 Es una forma de verlo.
-
 Ahora bien, por otro lado, si escogemos las vacaciones en casa, tenemos un total.
-
 Bueno, hay dos caminos más 5000 mil dólares en museos, ferias, etc. O también el otro camino de 1000
-
 dólares en videojuegos.
-
 Entonces esos son el IF.
-
 Es la combinación de varios condicionales.
-
 Ya sea que estén anidados o que no estén anidados, ya más adelante vamos a ver sobre el Eliah.
-
 Y bueno, de esta manera es como finalizó esta clase teórica en la que hemos hablado sobre los condicionales,
-
 aún nos restan por ver otros que los vamos a ver en la parte práctica, pero a grandes rasgos estos
-
 son los más conocidos.
-
 El IF es el ID, pues faltan otros, pero eso lo veremos en próximas lecciones.
-
 Por el momento me despido.
-
 Muchas gracias por ver.
-
 Éxitos y hasta la próxima.
 
 
+-----------------
+
+
+El propósito de este foro de discusión es proporcionar un espacio interactivo y colaborativo donde Estudiantes y académico del Seminario de Análisis y Diseño de sistemas puedan compartir conocimientos, experiencias y perspectivas relacionadas con los temas: TÉCNICAS DE RECOLECCIÓN DE INFORMACIÓN DEL PROYECTO Y METODOLOGÍA DE ANÁLISIS, TRANSICIÓN DEL ANÁLISIS AL DISEÑO.
+
+El foro busca fomentar un intercambio constructivo de ideas, promover el aprendizaje y facilitar la conexión entre los participantes en el Seminario Análisis y Diseño de Sistemas. Además, se espera que los participantes puedan aprovechar la diversidad de experiencias para obtener nuevas perspectivas y soluciones innovadoras en el ámbito de la gestión del desarrollo de sistemas.
+
+Indicaciones:
+
+  - Crea un mensaje de presentación.
+
+  - Explora los diferentes temas relacionados con el proceso informático para tener una visión general de las discusiones en curso.
+
+  - Puedes compartir tus experiencias, hacer preguntas o proporcionar información relevante que pueda enriquecer la discusión.
+
+  - Mantén un tono respetuoso en tus mensajes, incluso si no estás de acuerdo con alguna opinión. Fomenta un ambiente de intercambio constructivo.
+
+  - Al compartir tus ideas, trata de respaldarlas con argumentos sólidos, datos o ejemplos prácticos. Esto ayuda a fortalecer la calidad de la discusión.
+
+  - Si tienes preguntas específicas sobre algún tema, no dudes en plantearlas. De igual manera, si eres capaz de responder preguntas de otros participantes, hazlo para fomentar un ambiente colaborativo.
+
+  - Si encuentras artículos, libros o recursos en línea relevantes a los temas discutidos, compártelos en el foro. Esto puede enriquecer el conocimiento colectivo del grupo.
+
+  - Vuelve al foro regularmente para seguir las discusiones y responder a nuevas intervenciones. La participación continua contribuye al dinamismo del foro.
+
+  - Cuando decidas concluir tu participación, despídete cortésmente y agradece a los demás participantes por sus aportes. Esto ayuda a cerrar la discusión de manera positiva.
+
+Nota importante:
+
+  - La participación en el foro está estructurada en dos momentos: el primer momento es tu participación respecto del tema referido, el segundo momento es realizar la retroalimentación de la participación de al menos un compañero.
+
+  - Para obtener el puntaje establecido se deberá de cumplir con los dos momentos.
+
+Recuerda que la clave para un foro exitoso es la participación.
+
+
+¡Espero que tengas una experiencia enriquecedora en el foro de discusión!
