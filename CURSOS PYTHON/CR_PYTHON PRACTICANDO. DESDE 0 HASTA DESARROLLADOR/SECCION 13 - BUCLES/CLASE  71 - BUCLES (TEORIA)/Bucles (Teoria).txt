@@ -1,0 +1,241 @@
+Bien, vamos a iniciar con nuevo tema, vamos a la clase teórica de dicho tema y en este caso vamos
+
+a hablar sobre los bucles.
+
+Los bucles reciben múltiples nombres, bucles, estructuras repetitivas, iterador, iteraciones.
+
+Al final redundan en lo mismo bucles.
+
+Un bucle, tal como su palabra lo indica, es algo que se va a repetir, pero tiene cierto detalle cuando
+
+se trata de programación, sea cual sea el lenguaje.
+
+Y ese país es el iterador.
+
+Una parte fundamental de los bucles son los iterador.
+
+Vamos a ver de qué se trata.
+
+Por ende, comencemos esta clase de teórica.
+
+Primero.
+
+Hay que saber un dato importante y es la actualización de las variables.
+
+Fíjate cómo acá tenemos una variable llamada x x.
+
+En un inicio vale cero.
+
+Sin embargo, si recuerdas esta sintaxis de algún lugar es porque ya la hemos visto.
+
+Cuando nosotros ponemos el nombre de la variable X más igual 1.
+
+Eso es lo que hace esa unión de dos símbolos, que en este caso sería el símbolo aritmético del más
+
+y el de igual.
+
+Eso lo que hacen es aumentarle 1 a X.
+
+Ahí es donde se da una actualización de variable.
+
+Esto es un detalle importante, puesto que al trabajar con bucles vamos a requerir mucha pero mucha
+
+actualización de variables.
+
+Puesto que una variable va a ser un iterador y justamente es como va a funcionar.
+
+Una vez dicho esto, quiero que recuerdes eso, la forma en que se actualizan las variables.
+
+Veamos ahora el tema de la iteración.
+
+Qué es una iteración de manera simple, de manera sencilla, de manera básica.
+
+Una iteración es repetir una vez un conjunto de instrucciones.
+
+En esta imagen podemos ver cómo hay una iteración.
+
+1 Fíjate cómo es un bueno en un círculo.
+
+Que técnicamente tiene varios colores.
+
+Esos colores representan cada una de las funciones que se pueden llegar a cumplir dentro del código.
+
+Esto es una instalación.
+
+Luego.
+
+Sigue recto y llega la iteración 2, o sea, el círculo número 2.
+
+Ahí hay de nuevo los mismos colores que en la iteración o no, porque se van a repetir las instrucciones.
+
+Ahí está la iteración.
+
+2.
+
+Luego sigue recto.
+
+Llega un punto de la iteración 3, que es el último círculo.
+
+En ese último círculo también hay instrucciones que se van a cumplir, que son exactamente las mismas
+
+que el iterador 2, iterador 1.
+
+Una integración puedes verlo como esto, como una vuelta que se le da a un código, como un recorrido
+
+que se le da de manera repetitiva al código.
+
+Ahora si, veamos que son los bucles.
+
+Bien.
+
+Los bucles son estructuras.
+
+Que poseen un segmento de código que se repite tantas veces como se cumpla una condición.
+
+Un bucle va a ser un.
+
+Se le llama el loop, o sea, un bucle.
+
+Un loop que se va a repetir dependiendo de cuántas veces se vaya a cumplir una condición que le hemos
+
+colocado.
+
+Este bucle dentro de él va a tener un fragmento de código.
+
+Este fragmento de código se va a repetir tantas veces como la condición lo indica cuando la condición
+
+se deje de cumplir.
+
+El bucle termina en bucle, finaliza.
+
+Tenemos aquí la imagen.
+
+Vemos ahí un inicio.
+
+A esto se le llama flujograma.
+
+Tenemos un inicio y luego tenemos desde ahí uno.
+
+Hasta y mayor a diez va a incrementar Unamuno y no sólo tenemos el proceso.
+
+Lo que nosotros tenemos en el en el hexágono son las condiciones.
+
+Primero tenemos la variable.
+
+Obviamente esa variable se le llama iterador.
+
+Vamos a hablar de.
+
+Luego tenemos la respectiva condición que es hasta y sea mayor a 10.
+
+El incremento se va a dar de un modo y se va a cumplir un proceso que se va a repetir tantas veces como
+
+la condición lo indique.
+
+Cuando la condición deje de ser verdadera.
+
+Pues simplemente termina el bucle.
+
+Vamos ahora con el tema del iterador y el break, un iterador es un contador que poseen los bucles.
+
+Es importante que tengan uno.
+
+De otra forma el bucle sería infinito.
+
+Cuando un bucle no tiene un iterador, ese bucle jamás va a terminar, porque el iterador va a ser una
+
+variable o un dato que va a llevar la cuenta de cuántas veces se va a repetir un bucle dependiendo de
+
+la condición que le coloquemos.
+
+Este bucle puede llegar a ser infinito y a romper nuestro programa si no colocamos así.
+
+Por ende, el iterador es parte fundamental de un bucle.
+
+Es como un contador que le dice al bucle cuántas veces se va a ejecutar.
+
+Luego tenemos la palabra break.
+
+Break es una forma de tener un bucle al llegar a una condición ya definida.
+
+El break sirve para terminar un bucle.
+
+Ya lo hemos visto.
+
+De hecho esta palabra break, pero sirve para eso, para terminar un bucle en un punto específico.
+
+En algunas ocasiones nos va a servir este break para hacer testing.
+
+No vamos a ir más adelante, obviamente, pero.
+
+Eso para eso sirve el break, para entender el bucle en un punto en específico.
+
+No vamos a tratar a todos los bucles en esta clase teórica, pero sí veamos dos de ellos, el way y
+
+el Ford.
+
+Fíjate, tenemos un while, un while.
+
+La sintaxis es la palabra while seguido de la condición.
+
+Aquí lo puse dos puntos.
+
+Esto puede llegar a depender del lenguaje.
+
+A veces son corchetes, esas son llaves, a veces son dos puntos.
+
+Yo solo quiero que veas la sintaxis.
+
+Tenemos el while, la condición y las instrucciones.
+
+Y por último el contador o.
+
+Cuando nosotros tenemos acá un ejemplo del cual fíjate cómo primero hay que asignar una variable que
+
+en este caso es N que va a ser 5.
+
+Y luego ponemos el wifi mientras el mayor a cero, que es lo que va a hacer, pues va a imprimir n.
+
+Después n va a ser n menos, solo cuando todo esto termine va a aparecer el mensaje de spam.
+
+Por ende, la cuenta va a él.
+
+Dado que el valor de N 5 la cuenta va a ir 5 se repite el while 4 se repite el UIB, 3 se repite igual,
+
+2 se repite igual, 1 se repite el while y cuando ella llega a cero, esa condición de n mayor a cero
+
+ya se deja de cumplir.
+
+Por ende aparece el mensaje de espec.
+
+Si bien ahorita no lo quizás no lo logres visualizar como como te lo explico más adelante lo veremos.
+
+Obviamente en la parte práctica.
+
+Vamos al Ford, el Ford tiene una peculiaridad el Ford sirve para crear de una sola vez el contador
+
+y también darle un nombre.
+
+En este caso tengo una sentencia cualquiera.
+
+Por ejemplo, Ford Contador seguido a la palabra in y un nombre de una lista.
+
+El Ford muchas veces se va a utilizar para recorrer listas.
+
+Si no sabes que son las listas, lo veremos más adelante, pero generalmente sirve para eso.
+
+Y luego se da cuenta el código.
+
+Ahí tenemos como ejemplo, tenemos una lista, este tema lo veremos más adelante y el Ford va recorriendo
+
+cada uno de estos elementos de la lista.
+
+Y bueno, pues de esta forma, como finalizo esta clase teórica, por el momento voy a dejar esto hasta
+
+acá.
+
+Ahora si vamos con el ejercicio de los bucles, pero en código sin más, me despido.
+
+Muchas gracias por ver.
+
+Éxitos y hasta la próxima.
