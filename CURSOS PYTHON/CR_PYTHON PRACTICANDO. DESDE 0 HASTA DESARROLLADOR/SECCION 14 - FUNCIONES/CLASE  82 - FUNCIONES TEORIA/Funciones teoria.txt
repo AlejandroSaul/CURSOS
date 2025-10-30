@@ -1,0 +1,137 @@
+Bien, vamos en esta clase teórica a hablar sobre las funciones.
+
+Una función va a ser un se podría decir código reciclado, que vamos a poder mandar a llamar siempre
+
+que lo necesitemos.
+
+Cuando nosotros vayamos a utilizar funciones.
+
+De hecho es un tema bastante utilizado en el desarrollo, no necesariamente desarrollo web, desarrollo,
+
+aplicaciones, sino que en desarrollo en general.
+
+Más adelante vamos a ver pues que esto en realidad se fusiona con programación en objetos y bueno,
+
+vamos a ver temas extra, pero después por el momento vamos a ver funciones puras y duras.
+
+Comencemos con la clase teórica, por ende, definamos qué es una función.
+
+Bien, en el contexto de la programación, una función es una secuencia de sentencias que realizan una
+
+operación y que reciben un nombre.
+
+Cuando se define una función, se especifica el nombre y la secuencia de sentencias.
+
+Más adelante se puede llamar a la función por ese nombre.
+
+Si recuerdas en los bucles, yo te mencionaba que ese código se podía reutilizar, se podía reciclar,
+
+se podía ejecutar tantas veces como lo necesitáramos, depende de la condición.
+
+La función va a tener un nombre.
+
+Va a tener operaciones, va a tener sentencias y por ende vamos a poder llamar con el nombre que asignamos
+
+a esa función para que se ejecute todas las sentencias que están dentro de ella.
+
+Por ende, una función es eso.
+
+Es una secuencia de sentencias que reciben un nombre y están se podría decir que en un contenedor,
+
+que cada vez que nosotros querramos utilizar ese contenedor, simplemente lo llamamos y se ejecuta todo
+
+lo que hay dentro.
+
+Veamos el siguiente ejemplo.
+
+Tenemos ahí.
+
+Esto, pues, es lo más neutral posible.
+
+No quiere decir que así va a ser la sintaxis de todos los lenguajes, pero es una forma bastante simple
+
+de verlo.
+
+Tenemos Def, que sería la función y luego tenemos el nombre de esa función, que en este caso lo puse
+
+función.
+
+Si el acento recuerda sin el acento, porque el acento tiende a arruinar los programas que están en
+
+inglés.
+
+Luego de eso, fíjate cómo en el nombre de función yo le puse esos paréntesis, en esos paréntesis van
+
+a ir a que se llama parámetros que amasan la lo veremos y luego dentro de esa función está el print.
+
+Hola Mundo!
+
+O sea que me muestra el mensaje Hola Mundo!
+
+Ahora bien, esa función tu puedes verla como un contenedor, ese contenedor tiene la sentencia de imprimir
+
+Hola mundo y esa es su función.
+
+Cual es el nombre de la función?
+
+Función ahora fuera de ese contenedor se lo podría decir.
+
+Tenemos que estamos llamando dos veces a función.
+
+Por medio de qué?
+
+Por medio de la función paréntesis, función paréntesis.
+
+Y cada vez que estas dos veces es llamada la función, se ejecuta el código que hay dentro de ella.
+
+Por ende, se muestran dos veces.
+
+Hola mundo!
+
+Hola Mundo!
+
+Vamos a ver ahora que es un parámetro, un parámetro es una variable que se define al declarar funciones,
+
+las cuales van a ser utilizadas para enviar valores o hacer un llamado a la función.
+
+Un parámetro es un valor que se va a pedir tanto cuando se manda llamar a la función.
+
+Y también se va a utilizar dentro de la función misma.
+
+Tenemos aquí el ejemplo de de función y en los paréntesis hay una variable llamada mensaje.
+
+Luego se imprime mensaje dentro de la función.
+
+Un parámetro va a ser eso, un valor que se va a asignar cuando se cree la función.
+
+De igual forma, ese valor debemos de enviarlo cuando mandemos a llamar a la función.
+
+Un argumento que es un argumento bien, un argumento son los valores que va a tomar cada uno de los
+
+parámetros que se han definido la función.
+
+Tenemos el ejemplo de esa función función, mensaje.
+
+Cuando yo mando a llamar a la función, ahí pueden verlo.
+
+Función Yo en los paréntesis ya no los dejo vacíos.
+
+Ahora le pongo Hola Mundo!
+
+Y Hola Mundo, es lo que se va a ejecutar un argumento va a ser ese valor que vamos a colocar a un parámetro
+
+cuando mandemos a llamar a la función.
+
+Estos dos pueden parecer un enredo de esos, de hecho lo somos, pero los veremos en la práctica para
+
+que se hagan más fáciles de ver.
+
+Así que por el momento hemos finalizado esta parte teórica.
+
+Pasemos con la práctica.
+
+Así que me despido.
+
+Muchas gracias por ver.
+
+Éxitos y hasta la próxima.
