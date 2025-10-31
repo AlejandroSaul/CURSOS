@@ -1,0 +1,9 @@
+Ejercicio 1
+
+Crear un programa que tenga dos funciones, una que contenga el area de un cuadrado con argumentos de base y altura; y la otra el area de un circulo con argumento de radio
+
+
+
+Ejercicio 2
+
+Escribir una función que reciba una muestra de números en una lista y devuelva su medida.
