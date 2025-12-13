@@ -1,0 +1,153 @@
+Bien, en esta clase vamos a hablar sobre un tema que complementa mucho a las clases y a los objetos,
+
+métodos y atributos.
+
+Cuando nosotros hablamos de programación orientada a objetos en la forma más simple o más cercana a
+
+la vida real, en la vida real cada objeto tiene cualidades y a su vez ese objeto puede realizar acciones.
+
+Aquí es donde entran los métodos y atributos.
+
+Si yo tengo, por ejemplo, una fábrica de teléfonos.
+
+Esa fábrica crea objetos que son los teléfonos.
+
+Ahora bien, un teléfono va a llevar atributos.
+
+Un atributo es una cualidad o característica si es color negro.
+
+Si tiene una pantalla de X pulgadas, si es un teléfono táctil, se hace un teléfono de teclas.
+
+Si es un teléfono con una especificación de Android o de Ios, alguna versión en específico.
+
+Si es un teléfono Samsung Huawei y si es un teléfono Nokia, es un teléfono de cualquier otra marca.
+
+Esos son sus atributos.
+
+Por qué?
+
+Porque el teléfono necesita cualidades que justamente se van creando en el camino mientras se fabrica
+
+el objeto ese teléfono.
+
+De igual forma puede llamar, puede mensajea, puede tener alarma, puede tener calendario.
+
+Esos son cada uno de esos métodos.
+
+Cada una de las acciones que este teléfono puede realizar.
+
+Entonces, con este ejemplo bastante sencillo, comencemos describiendo que son los métodos y los atributos
+
+en programación orientada a objetos.
+
+Los métodos son las funciones, pero kenpo pasan a llamarse métodos de manera simple.
+
+Cuando tú utilizas tú, los métodos van a ser funciones.
+
+Y cuando digo funciones son funciones de programación, esas que se definen con palabras reservadas
+
+y crean una función, pues es una función, pero que cuando van en una clase, o sea, cuando están
+
+en programación, en objetos.
+
+Esas funciones no se llaman funciones, se llaman métodos.
+
+Bueno, dice que son pasan a llamarse métodos, los cuales hacen los objetos.
+
+Por ejemplo, si una clase de personas.
+
+Entonces un método puede ser hablar, porque las personas hablan.
+
+Dejando a lado un poco lo extraño del ejemplo, si tenemos una clase que crea personas, sus objetos
+
+van a ser las personas.
+
+Un método de una persona puede ser el hablar, el correr, el caminar, el dormir.
+
+Por qué?
+
+Porque eso son acciones que una persona puede realizar.
+
+Ahí tenemos el ejemplo clase persona y abajo tenemos el deber hablar.
+
+Este debe hablar.
+
+Es la forma de crear un método.
+
+Fíjate cómo es.
+
+Se debe hablar.
+
+No es más que una función, pero como lo estamos poniendo dentro de una clase, este pasa a llamarse
+
+método.
+
+Atributos Los atributos son características, hay características, características en el H.
+
+Cualidades o descripciones que los objetos tienen, aunque desde un punto de vista de código, en realidad
+
+son datos que pueden tener los objetos.
+
+Cuando nosotros hablamos de atributos, son características, son cualidades o descripciones que un
+
+objeto va a tener.
+
+Por ejemplo, tenemos la clase de carro.
+
+El carro tiene como atributos un color, una cantidad de llantas, una marca, una cantidad de puertas.
+
+Si tiene, digamos, el tema del automático o mecánico, pues esas son sus atributos, son cada una
+
+de las cualidades que el carro posee.
+
+El carro es el objeto.
+
+Ahora bien, de manera simple los métodos van a las clases, los atributos a los objetos.
+
+Otra vez los métodos van a las clases, los atributos de los objetos.
+
+Los objetos pueden ejecutar métodos y los métodos se pueden ligar a los objetos.
+
+Va todo de la mano.
+
+Cómo se llama esto?
+
+Nada más es teórico.
+
+Ya vamos a verlo en la práctica.
+
+Tenemos acá un ejemplo.
+
+Imagínate que tenemos un carro y tenemos a su vez una una clase que sea una fábrica de carros.
+
+Ah, sí, esa clase fabrica carros.
+
+Sí, nosotros creamos un objeto, o sea un carro.
+
+Este carro va a tener métodos, por ejemplo correr, detenerse por correr, digo acelerar, acelerar,
+
+detenerse, o sea, freno, cambio de velocidades, etc. Otras funciones tienen un carro, por ejemplo,
+
+encender y apagar las luces.
+
+El tema de la bocina, el pito, le decimos acá el pito es la el pps de un carro es el sonido que genera
+
+al presionar el timón.
+
+Entonces esos son sus métodos.
+
+Esos métodos son cada una de las cosas o acciones que puede hacer un carro.
+
+A su vez va a tener atributos.
+
+Qué color del carro, cuántas llantas tiene, cuántas puertas tiene, qué color va a ser bueno, si
+
+va a tener polarizado o no, y así cada una de sus métodos, sus cualidades.
+
+Y de esta manera es como finalizo esta clase en la que hemos hablado de métodos y atributos.
+
+Sin más me despido.
+
+Muchas gracias por ver.
+
+Éxitos y hasta la próxima.

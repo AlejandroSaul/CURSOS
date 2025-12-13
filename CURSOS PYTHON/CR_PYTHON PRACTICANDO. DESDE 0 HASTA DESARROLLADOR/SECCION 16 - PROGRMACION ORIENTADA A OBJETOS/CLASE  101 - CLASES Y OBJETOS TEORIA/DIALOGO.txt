@@ -1,0 +1,159 @@
+Bueno, iniciamos una nueva sección y a su vez un nuevo tema, en esta sección vamos a tratar o vamos
+
+a hablar sobre un paradigma de la programación y es el más famoso de todos y el que más utiliza programación
+
+orientada a objetos o por sus siglas o p o programación orientada a objetos.
+
+Este es un paradigma de la programación que es de los más importantes de comprender y a su vez de los
+
+un poco más complejos, un poco más difíciles de entender.
+
+Por eso es necesario que tengas la práctica de las clases anteriores para comprender de mejor forma
+
+lo que vamos a ver en esta sección.
+
+Caso contrario, se te va a complicar mucho comprenderle, así que te recomiendo que dijeras bien toda
+
+la información que hasta el momento hemos visto.
+
+Y ahora, si vengas a esta sección de tu bien, vamos a comenzar la programación orientada a objetos.
+
+Es un tema importante porque de este desligan muchas cosas, no solo para un lenguaje como tal, sino
+
+que más bien para ciertas ramas de la programación.
+
+Por ejemplo, con programación orientada a objetos se puede hacer desarrollo web, se pueden realizar
+
+cosas de inteligencia artificial, se pueden realizar cosas de machine learning y de ahí su gran importancia
+
+de comprenderla.
+
+Por qué?
+
+Porque ahora ya empezamos con temas un poco más avanzados del lenguaje.
+
+Entonces hay que comprenderlos para justamente utilizarlos de mejor forma con las secciones que ya se
+
+nos avecina, puesto que si vamos a utilizarla y necesitas comprenderla aún cuando sea difícil hacerlo,
+
+para que logres entender lo que se viene después de nuestros proyectos, nuestros ejercicios y demás
+
+cosas que vamos a ver del lenguaje, vamos a comenzar.
+
+Primero, ya describimos que es la programación, el objeto es un paradigma, la programación esta se
+
+basa en técnicamente dos cosas.
+
+La primera son las clases.
+
+Una clase básicamente es una entidad que define una serie de elementos que determinan un estado, osea
+
+datos y un comportamiento, o sea operaciones que se van a realizar con estos datos o también su estado.
+
+Ahora bien, cuando yo hablo de una clase me voy a referir a un molde, un molde con el que voy a poder
+
+crear diferentes objetos, que ya vamos a hablar de que es un objeto.
+
+Este molde llamado clase es lo que engloba a la programación orientada a objetos y justamente lo que
+
+le permite trabajar de manera bastante armoniosa con nuestros programas.
+
+Las clases son propiamente programación orientada a objetos, no dependen de un lenguaje como tal,
+
+no depende Python, sea JavaScript, si es Golán, si es cualquier otro lenguaje, no es propiamente
+
+de programación entre objetos.
+
+Entonces, en el caso de una clase, recuerda que estos son temas generales, o sea, ya en la práctica
+
+lo vamos a comprender de mejor forma.
+
+Pero ahí tenemos el ejemplo class galleta y la palabra paz.
+
+Ella más adelante vamos a hablar de esto.
+
+Esto solo es un ejemplo, no es un lenguaje de programación en específico, es simple y sencillamente
+
+un ejemplo.
+
+Acá tenemos la palabra reservada class, que por lo general es clase galleta.
+
+Galleta es como la clase, el nombre de la clase siguiente término importante objetos.
+
+En un nivel elemental, un objeto es simplemente un trozo de código, más estructuras de datos.
+
+Qué quiere decir?
+
+Que nosotros tenemos un objeto, siempre y cuando tengamos un fragmento de código con ciertos datos
+
+que le vamos a dar a ese objeto.
+
+Ahora bien, estos objetos son mucho más pequeños que un programa completo.
+
+Quiere decir que si bien llega un fragmento de código, no significa que sean más grande que todo el
+
+programa.
+
+Tenemos el ejemplo.
+
+Recuerdo un ejemplo genérico de ningún lenguaje en particular.
+
+Galleta sería el objeto va a ser igual a galleta, que es la clase que anteriormente habíamos puesto.
+
+Cómo te digo que lo veremos en la práctica, esto nada más hace introducción teórica.
+
+Vamos a verlo de la siguiente forma.
+
+Cuando nosotros estamos trabajando con programación orientada a objetos, debes de comprender y de analizar
+
+que nosotros nos vamos a hacerlo de la forma parecernos lo más posible a la vida real, con programación
+
+orientada a objetos.
+
+Nosotros vamos a crear programas.
+
+Vamos a crear objetos y clases que se parezcan mucho a la vida cotidiana.
+
+Por qué?
+
+Porque al final de cuentas la programación tiende a simular mucho la vida cotidiana y la programación.
+
+Esto nos permite ser lo más cercano posible a eso.
+
+Entonces tenemos acá este.
+
+Estas ilustraciones donde ves que una clase puede ser un molde, el molde.
+
+Ahí ese molde de metal para crear galletas.
+
+Esa es una clase.
+
+Es como un molde del que se van a desligar objetos que son los objetos, las galletas como moldes.
+
+Nosotros podemos hacer galletas.
+
+La galleta son los objetos.
+
+Podemos hacer tantas galletas como primero material tengamos.
+
+En este caso el material, pues va a ser ilimitado, porque en programación, atados todos esto simplemente
+
+hay material de sobra.
+
+Pero a lo que quiero llegar es que veas a una clase como un molde y ese molde sirve para que?
+
+Para crear objetos y los objetos van a ser como las galletas.
+
+Esa es una forma de verlo.
+
+Así que bueno, observemos la teoría, pero en código vamos a la parte práctica.
+
+Recuerda esto es esencial comprenderlo, porque de programación de objetos se van a negar muchas cosas
+
+de programación avanzada.
+
+Así que sin más, me despido.
+
+Muchas gracias por ver.
+
+Éxitos y hasta la próxima.
