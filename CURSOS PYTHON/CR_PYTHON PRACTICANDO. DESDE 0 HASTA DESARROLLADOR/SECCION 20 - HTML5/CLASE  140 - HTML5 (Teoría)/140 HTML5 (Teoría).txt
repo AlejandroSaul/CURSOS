@@ -1,0 +1,79 @@
+Ahora, si comenzamos con lo que sería HTML versión 5 o también llamado HTML5.
+
+Así que para esto vamos a ver la parte teórica de dicho tema.
+
+HTML5 es la quinta versión del lenguaje de viñetas, que ya te dije que no es un lenguaje de programación.
+
+Y es que definen nuevos estándares de desarrollo web, rediseñando el código para resolver problemas
+
+y actualizándolo así a nuevas necesidades.
+
+HTML5 no se limita solo a crear nuevas etiquetas o atributos que de hecho los tiene, sino que incorporan
+
+nuevas características y a su vez proporciona plataformas de desarrollo.
+
+Las cuales se llaman APIs.
+
+Para hacer aplicación en web.
+
+Como nuevas características y a diferencia de, por ejemplo, HTML, XHTML o HTML 4, es que hay nuevas
+
+etiquetas semánticas y recuerda la palabra semántica porque la voy a estar utilizando mucho durante
+
+estas secciones.
+
+La semántica es el contexto en que se utiliza una etiqueta y a la vez la función para la cual está preparada.
+
+Entonces, estas etiquetas semánticas sirven para estructurar de mejor manera los documentos HTML.
+
+A su vez, están destinadas a reemplazar la necesidad de tener una etiqueta que identifique cada bloque
+
+de la página en HTML.
+
+La versión antigua solo utilizábamos el div.
+
+Para poder señalar cada una de las secciones de la página.
+
+Sin embargo, como te vas a dar cuenta, en HTML5 esto ya cambia.
+
+Hay nuevos elementos multimedia, por ejemplo audio y video que anteriormente no estaban.
+
+Hay APIs nuevas que una API es un entorno de desarrollo, el cual ya trae ciertos parámetros, ciertas
+
+funciones, las cuales facilitan al desarrollador.
+
+Y un ejemplo de esto es la geolocalización en el mapa.
+
+Y por último, una nueva característica es que el almacenamiento local se da en el lado del cliente.
+
+Significa que ya no es necesario tener algo así como un servidor web o algún hosting para correr una
+
+página con HTML 5, sino que será de una sola vez en el navegador del usuario.
+
+La nueva estructura de HTML 5 es muy diferente a la de HTML que te había enseñado en la clase teórica.
+
+Aquí puedes notar que hay nuevas secciones y a la vez nuevas viñetas.
+
+Por ejemplo, el header, que sería algo así como cabecera.
+
+Aquí se almacena lo principal y lo primordial de la página web.
+
+O sea, aquello que la hace distinguirse de las demás.
+
+Un NAP que sería algo así como la navegación.
+
+Un article.
+
+Qué es un espacio donde van sexos y las secciones son contenido extra que se le puede colocar y el aceite,
+
+que sería algo así como un contenido que está en el borde de la página web y el Führer Führer que sería
+
+el pie de página, es el contenido que se encuentra hasta abajo al finalizar dicha página.
+
+Vamos a ir viendo estas secciones conforme avancemos en el curso.
+
+Así que cuando lleguemos allá no vamos a ver en la práctica.
+
+Así que sin más, comenzamos a ver todo lo todo lo teórico, pero a partir de código HTML 5.
+
+Muchas gracias por ver y hasta la próxima.

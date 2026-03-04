@@ -1,0 +1,109 @@
+Antes de iniciar, quiero darte ciertos conceptos importantes, los cuales debes conocer para comprender
+
+mejor lo que sería HTML.
+
+Así que iniciamos con una clase teórica y quiero que sepas que HTML ocupa mucho algo que se llama etiquetas.
+
+En algunos casos le llaman viñetas, etiquetas, al final vienen siendo lo mismo, y es que las etiquetas
+
+son un fragmento que indica al navegador realizar una función o tarea en específico, ya que HTML es
+
+el lenguaje con el que una página web se habla con el navegador y a partir de esto se crean funciones
+
+o se crean ciertos procesos.
+
+Entonces estas etiquetas determinan la estructura y a su vez la funcionalidad que va a tener la página
+
+web en HTML.
+
+Esta es la estructura básica, la que estás viendo en pantalla.
+
+HTML que sería la etiqueta y es importante que siempre se cierren las etiquetas.
+
+Observa los colores para que lo veas de manera detallada.
+
+El color verde es la etiqueta HTML.
+
+Toda etiqueta que se abre debe ser cerrada, a excepción de algunas que vamos a ver, pero por lo general
+
+siempre se deben de cerrar las etiquetas con la barra invertida seguido del nombre de la etiqueta y
+
+se abren con signos mayor y menor que seguido del nombre de la etiqueta.
+
+En color rojo vemos la etiqueta head.
+
+Esto hace referencia a la cabecera, en la cabecera se almacenan ciertos datos útiles, los cuales sirven
+
+al navegador para leer y por último la etiqueta body, que sería el cuerpo de HTML.
+
+Más bien el cuerpo de la página web que se muestra al usuario a través del navegador.
+
+Otro concepto importante es atributo, y es que un atributo es una cualidad que se le puede agregar
+
+a una etiqueta.
+
+La función del atributo es modificar el contenido que tiene dicha etiqueta o agregar una mejor estructura
+
+a una página web.
+
+Un atributo es nada más una característica, una cualidad que tiene una etiqueta para realizar funciones
+
+extra o en la mayoría de los casos, agregar nuevas nuevas características y nuevos estilos a partir
+
+de CSS.
+
+La estructura de un atributo es la que se ve en la imagen.
+
+El nombre de la etiqueta seguido de un atributo y por último, el valor de dicho atributo.
+
+Por lo general el atributo siempre se le pone igual y luego el valor de dicho atributo va entre comillas.
+
+En algunos casos simplemente se pone un atributo sin comillas.
+
+Y ahora una estructura de una viñeta de HTML.
+
+Aquí lo tienes.
+
+Primero la etiqueta de apertura, que es la etiqueta P.
+
+P Sería el nombre.
+
+Más adelante vamos a ver a lo que hace referencia.
+
+Class igual comillas fondo es el atributo de dicha viñeta.
+
+El contenido va a ser texto.
+
+El contenido y la etiqueta de cierre, que es importante, siempre sería la etiqueta, pero con la barra.
+
+Otro concepto que debes de conocer porque es muy usado son los contenedores.
+
+Un contenedor son recuadros o espacios que pueden colocarse en cualquier parte de la página.
+
+Y en esto se inserta más contenido HTML que puede como principal utilidad mejorar la visualización y
+
+permite organizar y dar una mejor estructura y diseño a las páginas HTML.
+
+Para que lo entiendas, que lo vamos a ver más adelante en la parte práctica.
+
+Puedes ver esa imagen en donde hay contenedores gris, naranja, verde, amarillo, que son para la
+
+basura.
+
+Por ejemplo, el gris desechos generales, el naranja orgánicos, el verde vidrio.
+
+Y así cada uno.
+
+Entonces cada contenedor lo que tiene es simplemente más elemento dentro de él.
+
+Qué se pueden hacer con estos elementos?
+
+Eso se va a determinar según la función que se le debe de dar en HTML.
+
+Vendría siendo funciones con CSS más que todo o mejorar su estructura.
+
+Estos eran los conceptos importantes que debes de conocer.
+
+Ahora si veamos prácticas a partir de la teoría.
+
+Muchas gracias por ver y hasta la próxima.

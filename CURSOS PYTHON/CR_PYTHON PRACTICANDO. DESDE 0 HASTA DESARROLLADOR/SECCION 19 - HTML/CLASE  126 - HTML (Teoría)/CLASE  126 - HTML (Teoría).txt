@@ -1,0 +1,117 @@
+Como cultura general vamos a ver HTML un poco de esa historia, lo que significa y algunos datos curiosos.
+
+HTML, según sus siglas, significa lo siguiente H de Hyper.
+
+The Text.
+
+M?
+
+Marco l Lenguaje.
+
+Traducido Lenguaje de marcas de hipertexto.
+
+Pero no quiero que te confundas, especificar HTML no es un lenguaje de programación de nuevo, HTML
+
+no es un lenguaje de programación.
+
+Por qué?
+
+Por la simple y sencilla razón de que no ocupa variables en lugar de variables.
+
+Ocupa algo que se llama viñetas, las cuales vamos a ver posteriormente.
+
+Y es que, a diferencia de otros lenguajes de programación o secuencia de comandos que usan secuencia
+
+de comandos, obviamente para realizar funciones, un lenguaje de marcados usa etiquetas para identificar
+
+su contenido.
+
+Esto es.
+
+HTML son viñetas que identifican el contenido de una página web y si HTML está presente en todas y cada
+
+una de las páginas web que hay en internet.
+
+En todas.
+
+Sin excepción.
+
+Para el caso del curso.
+
+Vamos a ver.
+
+HTML5 Sin embargo, quiero mencionarte de que existe o en su principio existía HTML.
+
+Vamos a iniciar con HTML.
+
+Por qué?
+
+Porque al hacer un curso desde cero y desde las bases y la web desde cero, quiero que veamos HTML desde
+
+un punto básico, desde un punto base, desde un punto cero.
+
+Por ende, vamos a ver HTML y HTML 5, que sería la versión actualizada y la que todo mundo está utilizando.
+
+Entonces, un poco de historia, este señor que ves acá se llama.
+
+Tim Berners-Lee Espero no haberme equivocado en la pronunciación, pues en 1989 este hombre logró algo
+
+que en aquel entonces era inimaginable, la cual era ocupar el protocolo TCP IP para enlazar documentos
+
+electrónicos entre dos dispositivos, o sea, correo electrónico técnicamente.
+
+Por aquel entonces la hizo normalizó el lenguaje que él utilizó para hacer dicha función.
+
+Y es que a principios del 1900.
+
+Lo define como HTML, el mismo creador.
+
+Este señor que ves acá.
+
+A su vez, fue el creador de la w w w v World Wide.
+
+O sea que este señor, así como inventó HTML, inventó la doble WW w.
+
+Lo que tengamos en cuenta, lo siguiente la estructura web.
+
+Y es que toda la web tiene una estructura, toda la web tiene casi que lo mismo.
+
+Y es que la capacidad para codificar utilizando HTML es esencial para cualquier profesional de la web
+
+y de hecho es esencial para todo diseñador web y desarrollador web, porque todo programador necesita
+
+aprender HTML sí o sí.
+
+A pesar de que HTML, como ya dije, no es un lenguaje de programación y lo insisto tanto porque hay
+
+personas que creen que sí y la verdad no lo es.
+
+Entonces quiero que notes que HTML es estructura, estructura de la web.
+
+CSS es presentación JavaScript, no lo vamos a ver en este curso, pero es comportamiento que se le
+
+agrega a una página web.
+
+Entonces me quiero centrar en HTML, porque toda la web tiene su estructura en este lenguaje de etiquetas.
+
+Toda, absolutamente toda.
+
+Por eso de ahí su importancia CSS es maquillaje, técnicamente lo vamos a ver igualmente en este curso.
+
+Por el momento nada más hablo de HTML.
+
+Así que sabiendo esto.
+
+Ahora, si comenzamos con la práctica, en donde empezamos a codificar y ver la parte práctica de HTML,
+
+como ya te dije, vamos a ver HTML y luego HTML5 para que veas sus diferencias, sus pros y sus contras.
+
+Y cuál fue la gran actualización?
+
+A pesar de que este curso es de este 0, necesito que literalmente veamos la web desde cero.
+
+Así que muchas gracias por ver.
+
+Te espero en la siguiente clase.
+
+Hasta la próxima.
