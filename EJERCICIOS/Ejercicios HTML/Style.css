@@ -1,0 +1,65 @@
+header{
+    background-color: beige;
+    border: 5px chartreuse;
+    width: 770px;
+    height: 200px;
+    margin: 5px;
+    border-radius: 10px;
+}
+main{
+    width: 770px;
+    height: 400px;
+    background-color: brown;
+    margin: 5px;
+}
+nav{
+    background-color: gray;
+    width: 150px;
+    height: 390px;
+    margin: 5px;
+    float: left;
+    border-radius: 10px;
+}
+section{
+    float: left;
+    background-color: aqua;
+    width: 440px;
+    height: 390px;
+    margin: 5px;
+}
+aside{
+    background-color: gray;
+    width: 150px;
+    height: 390px;
+    margin: 5px;
+    float: left;
+    border-radius: 10px;
+}
+footer{
+    background-color: gray;
+    width: 770px;
+    height: 150px;
+    margin: 5px;
+    border-radius: 10px;
+}
+#primero{
+    float: left;
+    background-color: blue;
+    width: 420px;
+    height: 120px;
+    margin: 5px;
+}
+#segundo{
+    float: left;
+    background-color: red;
+    width: 420px;
+    height: 120px;
+    margin: 5px;
+}
+#tercero{
+    float: left;
+    background-color: green;
+    width: 420px;
+    height: 120px;
+    margin: 5px;
+}
