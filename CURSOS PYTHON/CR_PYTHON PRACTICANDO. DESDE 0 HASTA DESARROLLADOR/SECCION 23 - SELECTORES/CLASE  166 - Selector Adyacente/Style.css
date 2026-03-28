@@ -1,0 +1,6 @@
+/*selector adyacente*/
+h2 + h3 { /*Al elemento mas cercano a h2 colocale estas reglas*/
+    color: fuchsia;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}

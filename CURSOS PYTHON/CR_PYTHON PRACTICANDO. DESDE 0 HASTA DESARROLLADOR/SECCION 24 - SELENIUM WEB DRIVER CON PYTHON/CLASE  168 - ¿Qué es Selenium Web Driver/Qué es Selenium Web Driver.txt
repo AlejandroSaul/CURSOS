@@ -1,0 +1,157 @@
+Hemos venido hablando de selenio, de automatización, de scripts, de programación, de pruebas automatizadas,
+
+pero no hemos descrito aún qué es el enum web driver.
+
+Solo te he mencionado que es una herramienta que sirve para automatizar testing y que vamos a utilizar
+
+en cierta parte el curso.
+
+De hecho, ya estamos en dicha parte del curso, por ende nos toca ver y también definir qué es el enum
+
+web driver.
+
+Y eso es lo que vamos a hacer en esta lección.
+
+Selenio es una herramienta de código abierto que se utiliza para automatizar las pruebas realizadas
+
+en los navegadores web.
+
+Si hablamos de testing.
+
+Tenemos que hablar también de automatización.
+
+Ya veíamos la importancia que esta posee a la hora de hacer las pruebas, a la hora de realizar un test.
+
+Por eso mismo, Selenio es una de las herramientas más utilizadas para el testing de aplicaciones web.
+
+De hecho, por ser código abierto, o sea que es gratis, ésta es la más común, la más utilizada.
+
+Y no solo eso, sino que la más óptima.
+
+Y en esta parte del curso vamos a aprender a utilizarla para hacer nuestro testing.
+
+Como ya sabes, haz la misma aplicación web de Jódeme.
+
+Vamos a estar utilizando selenio para realizar pruebas sobre Ayúdeme, que es una plataforma en la que
+
+estás viendo este curso y que también tiene al final de cuentas es una aplicación web.
+
+Por eso Selenio se presta mucho a que podamos realizar nuestras pruebas en dicha aplicación.
+
+Qué características posee selenio?
+
+Primeramente utiliza múltiples lenguajes, o sea lenguajes de programación.
+
+Por ejemplo, selenio se puede utilizar con Java o Java, con Sillar, con PHP, con Ruby, con PER,
+
+con JavaScript e incluso se puede utilizar completo.
+
+Para el caso del curso vamos a estar utilizando Python para desarrollar nuestros scripts y trabajar
+
+con selenio.
+
+Ya hemos visto una parte de Python donde si no sabías programar, ya te hemos enseñado dicha parte.
+
+Otra característica es que es multiplataforma, o sea que soportada en Windows, en Mac, en Linux,
+
+eso significa que es multiplataforma, que es una herramienta que es soportada bajo varios sistemas
+
+operativos.
+
+Una tercera característica es que es ejecutable con todos los navegadores y por todos los navegadores.
+
+Me refiero a Mozilla Firefox, a Internet Explorer que ya nadie goza, a Edge, a Google Chrome, a
+
+Safari, a Opera y todos los navegadores que pueden existir.
+
+De hecho, ya pasamos por esa parte donde descargamos un driver para Chrome y uno para Firefox.
+
+Así que de esa forma ya tendrías la idea que se puede utilizar con cualquier navegador.
+
+Una cuarta característica es que tiene ciertos implementos, o sea herramientas que facilitan la documentación.
+
+Algunas de estas herramientas son Test en Yí y también Jornet.
+
+Lo digo June, porque la verdadera pronunciación sería June, pero se puede confundir con Yunis de Linux
+
+y es June J u n it.
+
+Ese tipo de herramientas son implementos que pueden combinarse con selenio para de una vez sacar la
+
+documentación pertinente del proceso de testing.
+
+También una quinta característica es que puede ser utilizado con Jenkins, con Mayhem y con Docker.
+
+Así como tiene características que son positivas, también tiene ciertas limitaciones, las cuales son
+
+un poco negativas.
+
+La primera y principal es que solo es para aplicaciones web.
+
+Con selenio no se pueden automatizar aplicaciones de escritorio, aplicaciones nativas a, a pecas,
+
+entre otras.
+
+Sólo y exclusivamente aplicaciones web.
+
+Sólo eso se puede automatizar.
+
+Desgraciadamente para el testeo o para la automatización de herramientas de escritorio o aplicadas o
+
+apps se tienen herramientas como por ejemplo RF, que es de IBM, copetes que es de HP y también Opium,
+
+que son otras herramientas que no vamos a ver en el curso.
+
+Pero para que lo sepas, te dejo el dato.
+
+Otra limitación es que no posee soporte.
+
+Recuerda, un código abierto obviamente es gratis y generalmente el soporte se da más que todo por la
+
+comunidad que lo utiliza.
+
+Pero a partir de los fundadores o los creadores de selenio, no posee este soporte, que tienen otras
+
+herramientas.
+
+El soporte se lo da la misma comunidad que lo utiliza.
+
+Otra limitación es que para testear algunos campos es necesario utilizar extensiones.
+
+Esto lo vamos a ver un poco más adelante, por ejemplo, para testear un captcha.
+
+No lo vamos a hacer con métodos convencionales.
+
+De hecho, vas a notar que en una lección donde hay que automatizar un captcha no voy a poder realizarlo
+
+por la misma limitación que es necesario utilizar extensiones.
+
+Una extensión es algo extra.
+
+Su propio nombre lo dice, que se le coloca a la herramienta para que funcione de esta manera.
+
+De hecho, vas a notarlo cuando lleguemos a esa parte que te menciono con el captcha.
+
+Y una última limitación es que no se instala de manera nativa, o sea que no hay un programa, no hay
+
+un instalador o una GUI que se pueda instalar en la computadora, que se pueda instalar en el equipo
+
+de testing para realizar las pruebas.
+
+No, esto se corre sobre una consola.
+
+En este caso lo vamos a correr sobre un IDE que es pitcher y de esa forma es como se utiliza.
+
+Así que de esta manera finalizamos nuestra clase respectiva a..
+
+El término selenio.
+
+Ahora ya sabes lo que es.
+
+Y comenzamos entonces con nuestras automatizaciones.
+
+Por el momento dejo a la clase hasta acá.
+
+Espero te haya gustado y hayas aprendido.
+
+Muchas gracias por ver y hasta la próxima.

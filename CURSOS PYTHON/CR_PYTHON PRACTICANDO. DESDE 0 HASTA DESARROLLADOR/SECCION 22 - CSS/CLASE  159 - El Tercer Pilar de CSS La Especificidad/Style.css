@@ -1,0 +1,11 @@
+#identificador{
+    color: lawngreen
+}
+
+.clase{
+    color:blue
+}
+
+p{
+    color:lightcoral !important; /*Espesificidad*/
+}

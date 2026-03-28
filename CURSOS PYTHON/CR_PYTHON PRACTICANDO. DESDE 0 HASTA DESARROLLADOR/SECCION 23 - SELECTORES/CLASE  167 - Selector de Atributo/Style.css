@@ -1,0 +1,9 @@
+[class]{ /*Todos lo que tengan class porque manda a llamar al atributo*/
+    color: red;
+    background-color: blue;
+}
+
+[class="parrafo"]{ /*Todos lo que tengan class seguido de parrafo porque manda a llamar al atributo*/
+    color: rgb(255, 0, 191);
+    background-color: rgb(179, 255, 0);
+}

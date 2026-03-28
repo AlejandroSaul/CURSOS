@@ -1,0 +1,66 @@
+Una vez, habiendo visto lo que es HTML 5 y también HTML, que sería algo así como la estructura de
+una página web.
+Toca bsss los cuáles son los estilos que se le agregan a una página web, de hecho CSS significa Cascade
+Style Sheets, algo así como hojas de estilo en cascada y por cascada.
+Me refiero a una de las características primordiales de CSS, las cuales vamos a ver en videos posteriores.
+Un poco de historia CSS nace a partir de hojas de estilos y es creado para controlar el aspecto o presentación
+de los documentos definidos con HTML.
+Estos dos lenguajes se complementan, al igual que HTML y CSS no es un lenguaje de programación, por
+la misma razón de que no utilizan variables, a lo mucho utilizan pseudo clases, pero ese es tema aparte.
+Entonces CSS nace de la necesidad de darle aspectos a la web.
+En aquel entonces, siguiendo con su historia, el orgasmo, el organismo doble v. 13, que es algo
+así como el consorcio de la web, el cual se encarga de dar los estándares relacionados con la web,
+propuso la creación de un lenguaje de hojas de estilo que solo utilizara HTML como estructura básica.
+Después de muchas pruebas de muchos diseños, en 1996 se publica la primera versión de CSS, llamada
+así Para el caso de la actualidad ya vamos por la tercera versión y de hecho dudo mucho que haya cuarta
+o quinta por el tema de que la tercera se ha perfeccionado hasta un punto en el que no necesita mayor
+actualización.
+De hecho, hay algo que se llama sub módulos o pseudo clases, las cuales siguen mejorando y a la vez
+mejoran experiencia en lenguaje.
+Por dichas razones creo que no van a ver más versiones.
+Hay que tener en cuenta lo siguiente la estructura de una regla CSS.
+Y es que esto consta de tres valores.
+El primero es el selector.
+Como puedes ver en la imagen, aquel selector hace referencia a una P.
+Esa P hace referencia en realidad a la etiqueta P en HTML.
+Así que el selector es el elemento dentro de HTML al que se le va a aplicar un estilo.
+Ya ves, es muy importante.
+Seguido de propiedad, en este caso color.
+La propiedad es el estilo que se le va a aplicar.
+Ha dicho selector seguido de un valor de propiedad, el valor de propiedad es técnicamente.
+Un atributo que se le aplica dependiendo la propiedad al selector y esto se le llama declaración, propiedad
+y valor de propiedad declaración junto con selector se le llama regla de CSS y es importante colocar
+el punto y coma al final.
+Esto indica que una regla ha terminado.
+Entonces esta sería la estructura básica de toda regla CSS.
+Conforme vayamos viendo el curso, vas a notar que va a ser necesario que memorices las reglas y la
+verdad al principio parece difícil.
+Conforme vas practicando se vuelve aún más fácil.
+Así que estamos en la versión 3 de CSS actualmente para el año 2020, que ya casi acaba y de hecho si
+va a ser para siempre.
+Y este es el logo, para que lo sepas reconocer, en dado caso lo veas.
+Y llego un.
+Término importante.
+Padres, hijos y hermanos.
+Si tú notas hoy un body, un H1 y un a juntos.
+A qué se refiere?
+Padres, hijos y hermanos.
+La herencia es algo muy primordial en CSS, al igual que la cascada.
+De hecho, es una cualidad extra aparte de la cascada.
+La cual también vamos a ver en videos posteriores.
+Qué es un hijo?
+Un hijo es lo siguiente si notas el H1 está dentro de un body.
+Entonces H1 es hijo de body.
+Todo aquel elemento que se encuentre dentro de otro elemento, dentro de sus etiquetas, es un hijo.
+Por ejemplo, ves de qué P.
+También está dentro del body.
+Por ende, H1 y P son hermanos, hijos del mismo padre que es body.
+Luego nos vamos al link que está dentro de la etiqueta P, que es ese link A?
+Es el link es hijo de P.
+Por qué se encuentra?
+Se encuentra dentro de sus etiquetas.
+Quiero que recuerdes esto porque va a ser importante a la hora de ver la práctica.
+Así que ahora, si vamos a la parte práctica, viendo con código cada una de las cosas primordiales
+de CSS, comenzando por sus características que se van a ver en la clase siguiente.
+Por el momento dejo la clase hasta acá.
+Muchas gracias por ver y hasta la próxima.
