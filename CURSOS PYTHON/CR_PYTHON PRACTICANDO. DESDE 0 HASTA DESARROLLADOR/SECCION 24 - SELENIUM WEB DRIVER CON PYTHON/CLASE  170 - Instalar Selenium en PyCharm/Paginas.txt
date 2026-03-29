@@ -1,0 +1,6 @@
+https://www.selenium.dev/downloads/   --pagina oficial
+
+pip install selenium -- instalador python
+
+
+https://googlechromelabs.github.io/chrome-for-testing/#stable -- pagina para descrgar siempre descarga chromedriver no chrome

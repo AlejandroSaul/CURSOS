@@ -1,0 +1,97 @@
+Ya tenemos nuestros editores, nuestro IDE, con el que estaríamos trabajando, pero aún no finalizamos
+
+la sección porque hace falta que probemos que todas las instalaciones estén correctas.
+
+Para hacer esto vamos a tener que programar nuestro primer script.
+
+Y qué es lo que vamos a estar testeando o que es lo que vamos a estar automatizando en esta clase?
+
+Te voy a dar un pequeño vistazo y vamos a dar un recorrido rápido a lo que estaríamos testeando en las
+
+secciones posteriores.
+
+Y quiero aclarar, vamos a testear una aplicación que es muy conocida.
+
+De hecho.
+
+Tú la conoces, al menos si estás viendo este curso y no me hago cargo.
+
+Si en dado caso le das un mal uso al conocimiento que te enseño acá.
+
+Esto lo hago con fines ilustrativos educativos, así que no me hago cargo si en dado caso lo utilizas
+
+con fines maliciosos.
+
+Y de seguro te estarás preguntando qué es lo que vamos a testear, que tú conoces y que es muy conocido.
+
+Pues te voy a enseñar lo que estaríamos testeando.
+
+Yo de mi punto com va a ser nuestro objetivo de testing, con el que vamos a poder a través de selenio,
+
+automatizar muchas de sus funciones.
+
+Para aprender esta API que es selenio y también poder llevar a cabo esta sección.
+
+Puedes notar que estoy en la página de Udemy y lo que vamos a testear primeramente es el logging.
+
+Es algo tan simple, algo muy sencillo que ya se conoce mucho.
+
+Y aquí estaríamos en el logging.
+
+Para la sección yo he creado una cuenta provisional.
+
+De hecho, es DFD flujograma arroba gmail.com y cuya claves del 1 al 10 1, 2 3, 4, 5, 6, 7, 8,
+
+9 10.
+
+Esperamos evitar que y de esta forma ya tendría acceso a esta cuenta provisional, que de hecho ni siquiera
+
+tiene cursos porque literalmente la creé hace como 10 minutos, pero nos va a servir porque con ella
+
+vamos a poder automatizar todo lo que es.
+
+Ayúdeme.
+
+Al menos logging.
+
+Ahora quiero que te fijes en lo siguiente.
+
+Acá pide el correo.
+
+Acá la contraseña, estos son componentes de la aplicación, porque al final de cuentas viene siendo
+
+una aplicación web.
+
+Qué función tiene esta función de este componente es pedir el correo.
+
+La función de este componente es pedir la contraseña.
+
+Este botón es otra función, es otro elemento.
+
+Que es lo que hace?
+
+Iniciar sesión.
+
+Todos estos componentes, como hemos venido diciendo a través de todo el curso, hacen a la aplicación
+
+y son los que deben ser testeados por eso.
+
+Por eso mismo vamos a testear estos componentes, los vamos a automatizar.
+
+Mientras que aprendemos a utilizar selenio.
+
+Así que, como siempre te vuelvo a repetir, no me hago cargo, si en dado caso ocupas el conocimiento
+
+con fines maliciosos, yo lo hago con fines educativos.
+
+Y ya que aprovechando la ocasión estamos hablando de testing.
+
+Va a ser muy entretenido testear la plataforma en donde está este curso y donde lo estás viendo.
+
+Así que por el momento dejo la clase hasta acá.
+
+En la próxima vamos a hacer nuestro primer script y verificar que todas las instalaciones estén correctas.
+
+Sin más me despido.
+
+Muchas gracias por ver y hasta la próxima.
