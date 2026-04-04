@@ -1,0 +1,165 @@
+Quiero darte la introducción a la sección, vamos a estar trabajando con un módulo llamado Torell.
+
+El objetivo del curso como tal es enseñarte a programar en Python, pero a su vez de nada te sirve saber
+
+programar.
+
+Si no lo pones en práctica.
+
+Así que por eso he creado esta sección en donde hacemos pequeños proyectos que ponen a prueba ya tus
+
+conocimientos te permiten ir viendo cómo llevar la programación más allá de una terminal y más allá
+
+de un simple código de CMD o de Visual Studio Code.
+
+Te permiten ver cosas gráficas y ver cómo puedes ir manipulando la programación para hacer diferentes
+
+tareas.
+
+Así que este es mi objetivo.
+
+Con estas acciones que se vienen de aquí en adelante, mostrarte que Python no sólo es un lenguaje de
+
+programación y se puede ver desde consola, no quiero demostrarte de que se pueden hacer grandes cosas
+
+con el lenguaje y que son muy divertidas, entretenidas y que son muy pero muy proactivas a la hora
+
+del aprendizaje.
+
+Entonces vamos a trabajar con el módulo Tools.
+
+Así que te voy a dar una pequeña introducción y parte teórica de lo que es el módulo como tal.
+
+Antes de eso, necesito que sepa ciertos conceptos importantes.
+
+El primer concepto es librería.
+
+Una librería es un conjunto de módulos cuya agrupación tiene una finalidad específica y que también
+
+puede ser invocada tal como un módulo.
+
+Pero no es un módulo como tal.
+
+Sino un conjunto de ellos con una estructura determinada para lograr una finalidad.
+
+Una librería es un conjunto de módulos y que es un módulo, un módulo es una porción de un programa
+
+de ordenador de las varias tareas que se debe realizar, un programa para cumplir su función u objetivos.
+
+Un módulo realizará comúnmente dichas tareas o varias según el caso.
+
+Te doy un ejemplo recuerdas cuando utilizamos el import Matt?
+
+Matt es un módulo matemático, el cual trae funciones como ese cuerpo que es para sacar raíz cuadrada.
+
+Trae el paquete para elevar cifras.
+
+Entonces todas esas funciones que trae el módulo.
+
+Son las implementaciones y las funciones a las que se refiere.
+
+Si hay varios módulos conjuntos, a eso se le llama librería y se importa de igual manera.
+
+Entonces, siguiendo con esto.
+
+Hay palabras clave a la hora de trabajar con librerías y con módulos.
+
+La primera palabra clave es el import import sirve para importar o mandar a llamar módulos y librerías.
+
+Ahí tienes un ejemplo import Math estaría llamando al modelo matemático o a la librería matemática.
+
+Debes de tener cierto cuidado para el caso de Math es un módulo más, no una librería.
+
+Ya vamos a llegar a determinar qué es tools, si una librería o un módulo.
+
+Otra palabra clave es el from módulo import función.
+
+Imagínate el ejemplo from mad import sqrt.
+
+Como ya te había mencionado, Matt tiene funciones como ese quarter pow, entre otras.
+
+Verdad?
+
+Entonces con Frank Matt le estoy diciendo de matemáticas.
+
+Quiero que me importa nada más la función sqrt.
+
+Esta es una forma de importar sólo las funciones específicas.
+
+Y por último, el front mad import asterisco.
+
+Esto me está diciendo que va a importar todas las funciones.
+
+Entonces Toro es una librería o un módulo?
+
+Déjame decirte que para efectos técnicos es un módulo.
+
+Sin embargo, yo durante los videos lo llamo mucho librería porque tengo la costumbre de llamar tanto
+
+módulos y a librerías de la misma forma.
+
+Aunque no lo sean para el caso de Toro, bueno, para el caso de Toro y muchos otros son los dos a la
+
+vez.
+
+A que me refiero que son tanto módulos como librerías, con la diferencia que de más, de manera más
+
+técnica se le puede llamar módulo.
+
+Pero de igual forma, de manera coloquial, por decirlo así, yo le llamo librería o módulo, entonces
+
+Tool es un módulo de programación de Python utilizado como método para enseñar programación a través
+
+de coordenadas relativas.
+
+El objetivo programar recibe un nombre llamado Tortuga.
+
+Lo vamos a ver en la parte práctica.
+
+Elemento clave en el lenguaje programación globo.
+
+Todo se viene de una desfasada lenguaje de programación llamado el logo.
+
+En el logo lo que podías hacer eran dibujos.
+
+A partir de decirle a un objeto ve hacia adelante o hacia atrás, ves a la izquierda, a la derecha.
+
+Algo así es con toros, pero es un poco mejor.
+
+Entonces fue creado allá por los 60.
+
+Quiero que tomes cierto interés por el toro.
+
+Por qué?
+
+Porque su contenido educativo es exageradamente grande.
+
+A qué me refiero?
+
+No me estoy refiriendo que es difícil.
+
+No me estoy refiriendo a que puedes aprender mucho.
+
+Y a su vez, es un módulo que recomiendo mucho para la educación.
+
+Quiero que tengas en cuenta esta imagen.
+
+Es un plano cartesiano.
+
+Obviamente puedes ver cuatro cuadrantes, cuatro cuadrados.
+
+El lienzo de toro es esto.
+
+Es un plano cartesiano.
+
+Cuando llegues a la parte práctica vas a ver a lo que me refiero, y es que sus coordenadas en eje X,
+
+que sería horizontal y eje Y que es vertical, las tiendas en imagen.
+
+Quiero que lo recuerdes muy bien, porque lo vamos a estar utilizando en la parte práctica.
+
+Entonces, sin más, comenzamos la parte práctica en donde utilizaremos toros para hacer ciertos proyectos
+
+que pueden ser bastante interesantes y a la vez lo más importante, educativos.
+
+Muchas gracias por ver y hasta la próxima.

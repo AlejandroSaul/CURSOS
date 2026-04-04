@@ -1,0 +1,117 @@
+Antes de proseguir con la siguiente sección en donde vamos a desarrollar nuestro primer proyecto, quiero
+
+describirte lo que vamos a estar haciendo, el videojuego que vamos a estar desarrollando.
+
+Lo puedes ver en pantalla.
+
+Es como una carrera de dos tortugas que van hacia una meta, hacia una casa en común.
+
+El objetivo es bien simple la primera tortuga que pise casa, la primera que llega a la meta, gana
+
+el juego.
+
+Así que este sería el objetivo del juego.
+
+Consideraciones del juego.
+
+Cada jugador lanza un dado.
+
+En este caso, el dado no va a ser uno físico como tal, sino que vamos a hacer un dado que sea una
+
+lista que contenga los números del 1 hasta el 6.
+
+El programa de manera automática, de manera random, va a escoger uno de esos números y es la cantidad
+
+de pasos que su tortuga va a dar.
+
+Significa que aquí estaríamos utilizando la biblioteca random, la cual ya habíamos visto en lecciones
+
+anteriores.
+
+Luego un jugador mueve su tortuga en la cantidad de pasos que el dado indica, pero de manera técnica,
+
+o sea letra del código, es ese número que Rambo tome.
+
+Vamos a tener que multiplicarlo por un número mayor para que la cantidad de píxeles que la tortuga avance
+
+sea mayor y que el juego no se alargue demasiado.
+
+Después los jugadores alternan turnos, significa que obviamente, primero verde, después azul, después
+
+verde, después azul.
+
+Y esto sería el juego.
+
+Cada jugador tiene una tortuga de color diferente.
+
+Esto con el objetivo que sea más vistoso y a la vez que sea más competitivo y se pueda diferenciar tortuga
+
+entre tortuga.
+
+Cada tortuga tiene una posición inicial.
+
+Esto es importante porque debemos colocar las tortugas a la misma distancia de sus respectivas casas
+
+y las casas a sus respectivas distancias entre ellas.
+
+Tanto tortugas como casas debemos colocarlas equidistantes, o sea, a la misma medida, a la misma
+
+distancia.
+
+Porque si no, uno de los dos jugadores va a tener más ventaja que el otro y no queremos que eso ocurra.
+
+El dado va a consistir del 1 al 6.
+
+Puede ser, o una lista o una tupla.
+
+Tú decides.
+
+En mi caso voy utilizar lista.
+
+Qué consideraciones técnicas debemos de tener?
+
+Primeramente, las tortugas por defecto inician en el cero coma cero.
+
+Pero estas mismas tortugas deben de dibujar su casa, o sea su círculo.
+
+Entonces.
+
+Debemos levantar el lápiz.
+
+O sea, que no dibuje y mandará a las tortugas a un punto en el que hagan su respectiva casa.
+
+Eso es lo primero.
+
+Lo segundo.
+
+Al terminar de hacer su casa, las tortugas deben regresar a su posición inicial, que no va a ser el
+
+0,0 y desde ahí iniciar su carrera.
+
+Recuerda, esto es un plano cartesiano.
+
+Eje Y el eje X eje X Solis son tal eje Y es vertical, así que si puedes notar, las tortugas sólo se
+
+mueven en el eje X, significa que el eje lleva a ser constante y no va a ser no deber necesidad de
+
+modificarlo.
+
+Recuerda eso porque los comandos especiales son los que nos van a ayudar para esto.
+
+Otra consideración interesante e importante a tener en cuenta es que al llegar a casa el programa debe
+
+respetarse y las tortugas deben volver a su puesto, ya sea en el 0,0 o a su puesto original.
+
+Qué sería la coordenada donde inicia la carrera y de esta forma ya estaríamos completando la descripción
+
+del juego o un pequeño desplazamiento de lo que vamos a estar haciendo.
+
+Siempre es importante que para hacer proyectos te preguntes o te hagas la idea de qué es lo que vas
+
+a necesitar y eso es lo que hemos hecho acá.
+
+Así que sin más, dejo la clase hasta acá para no hacerla muy larga.
+
+Te doy las gracias por ver el video.
+
+Nos vemos en la próxima y hasta luego.
