@@ -1,0 +1,177 @@
+En esta lección, y una vez instalado chat, vamos a hacer una pequeña demostración rápida de lo que
+
+sería expat.
+
+Te mencionaba que es es una forma de recorrer un documento XML.
+
+Y también nos va a servir para encontrar ciertos elementos.
+
+Así que en esta clase vamos a estar haciendo esa demostración de la que te hablaba para que entiendas
+
+mejor de qué manera funciona Croft.
+
+Para el caso lo voy a hacer tanto en Firefox como en Google Chrome.
+
+Vamos a iniciar con Google Chrome.
+
+Ya sabes, mi respectiva consola.
+
+Si yo doy los tres puntos y la pongo acá abajo, se me va a ser mejor por utilizar Acrobat y doy acá
+
+croata.
+
+Se me abre esta consola.
+
+Ahora, si te fijas.
+
+Acá me está mostrando cierto ciertas rutas, por ejemplo Bodhi.
+
+Hasta aquí Udemy.
+
+Y esta es una ruta absoluta que vamos a hablar de eso y un tag name que seria body.
+
+Observa lo siguiente Si yo selecciono acá otra ruta, por ejemplo, estaba en body.
+
+Ahora voy a seleccionar este div.
+
+Esta consola cambia.
+
+Ahora la ruta relativa es body div.
+
+El CSS selector es este que está acá en la ruta absoluta es html body div.
+
+Entonces me voy a colocar un poco más abajo para que lo vea.
+
+Hasta me cambio y ya me cambian los valores que están acá.
+
+Por qué ocurre esto?
+
+Porque Crockett lo que me permite es investigar cuál es la ruta que dentro de la estructura está colocada
+
+a partir de ciertos ciertas instrucciones.
+
+Ahora, lo que vamos a utilizar en esta sección va a ser esta.
+
+Esta sección de selectores, por ejemplo, hay rutas relativas y rutas absolutas.
+
+Una ruta absoluta es aquella que, entre comillas, jamás va a cambiar.
+
+Una ruta relativa es aquella que muy contrario las va a cambiar o puede cambiar.
+
+Entonces lo que más vamos a utilizar, de hecho, lo que se recomienda utilizar siempre son rutas relativas.
+
+Vamos a verlo.
+
+Para colocar una ruta relativa se debe de iniciar siempre la sintaxis con doble barra.
+
+De esta manera, yo ya estaría seleccionando una ruta relativa.
+
+Ahora voy a colocar el signo de multiplicación, el asterisco.
+
+Y voy a dar entre observa bien lo que ha ocurrido acá en mi página de de se me colocan así como cuadros
+
+en celeste.
+
+Estos cuadros se llaman nodos.
+
+Un nodo es un elemento dentro de la estructura que se representa de esta manera.
+
+Por ejemplo, el deep.
+
+Que es este gran contenedor, no se lo está representando.
+
+Casi no se nota, pero acá hay un pequeñito línea de barritas que muestran ese dip.
+
+Vamos a buscar uno más pequeño, por ejemplo.
+
+Este que está acá ya nos cambiaría la ruta, pero.
+
+Pero yo necesito volver acá.
+
+Ahora observa estos nodos porque lo que vamos a hacer ahora es lo siguiente una sintaxis, una sintaxis
+
+relativa, consta de las siguientes partes.
+
+Doble barra seguido de viñeta o etiqueta, que es lo mismo.
+
+Y por viñeta me refiero a html.
+
+Llaves.
+
+Bueno, corchetes.
+
+Algunos me hacen la la corrección que estos son corchetes.
+
+Seguido de arroba.
+
+Atributo igual comilla simple valor del atributo y cerrar comida siempre está en la forma de colocar
+
+una ruta relativa.
+
+Por ejemplo, hagamos una práctica.
+
+Voy a seleccionar esta parte que está acá.
+
+Qué sería el correo?
+
+Verdad?
+
+Ahora.
+
+Voy a hacer lo siguiente.
+
+Seleccioné ya mi elemento y a partir de este elemento con lenguaje expat, yo voy a sacar su ruta relativa.
+
+Primeramente necesito la etiqueta, en este caso es un input, acá lo muestra.
+
+Significa que yo acá voy a poner barra, barra, input.
+
+Luego debo de seguirlo, acompañarlo con.
+
+Corchetes lleva a decir llaves, corchetes.
+
+Seguido de eso, un arroba.
+
+Y ahora tengo que colocar acá cualquier atributo que posee este campo.
+
+Yo lo voy a hacer con name, arroba, name.
+
+Igual comía simple y seguido a esto tengo que colocar el valor del atributo, en este caso es email.
+
+Voy a hacer lo siguiente ahora voy a seleccionar contraseña, pero me queda guardado acá el comando
+
+que puse.
+
+Observa lo que pasa cuando presiono enter.
+
+Mira bien, el recuadro verde está en contraseña, pero si yo presiono enter me recurre y me busca dentro
+
+de la estructura el cuadro de correo.
+
+Porque la ruta relativa que yo le dije fue ésta, fue buscar el input que tuviera el atributo neng con
+
+un valor de email.
+
+Y al presionar Enter me busca esta ruta relativa y me la selección.
+
+Voy a copiar esta ruta y me voy a ir a Firefox y voy a hacer exactamente lo mismo.
+
+Aquí estaría Acrobat.
+
+Voy a hacer esto un poco más grande.
+
+Y voy a pegar exactamente lo mismo y voy a dar enter.
+
+Ves cómo me está seleccionando el mismo campo?
+
+Pues esto es expat.
+
+Es a partir de rutas, yo puedo sacar componentes según su ubicación y buscarlas en toda la estructura
+
+HTML, para luego qué voy a hacer con esto?
+
+Eso lo vamos a ver en la próxima clase.
+
+Por el momento dejo la clase hasta acá, espero te estado y es espléndido.
+
+Muchas gracias por ver y hasta la próxima.

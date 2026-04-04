@@ -1,0 +1,77 @@
+Iniciamos una nueva sección.
+
+Ya hemos estado viendo ciertas funciones de selenio que nos permiten identificar componentes a partir
+
+de atributos HTML.
+
+Pero suponiendo que en dado caso estos atributos no existan, es necesario recurrir a otros métodos
+
+y esos métodos son los que vamos a estar viendo en esta sección, y por métodos me refiero a expat.
+
+Expat lo vamos a ver en esta clase.
+
+Es otro método que se puede utilizar con selenio para identificar componentes de una manera distinta
+
+a la que ya hemos visto.
+
+De hecho.
+
+Vamos a ver las funcionalidades de Selenio.
+
+Por eso esta va a ser un arma más dentro de tu arsenal para que puedas automatizar con selenio expat.
+
+Lo vamos a ver a través de la sección.
+
+Va a ser muy útil a la hora de identificar componentes que no poseen atributos, pero que es expat.
+
+Es un lenguaje que permite construir expresiones que recorren y procesan un documento XML.
+
+Un documento XML o XML como tal es un lenguaje que permite crear.
+
+Es parecido a HTML, pero permite crear técnicamente un lenguaje propio.
+
+Existen viñetas, existen atributos, pero en XML lo que se hace es como tal.
+
+Crear un lenguaje propio con nuestras propias viñetas para que lo entiendan de una forma mejor es como
+
+un HTML, pero que puedes customizar.
+
+Así de simple.
+
+Entonces, expat nos permite recorrer toda esta.
+
+Relativa.
+
+Estructura para poder hacer ciertas funciones.
+
+Cuando pasemos a expat lo vas a ver de manera más gráfica y vas a comprender a lo que me refiero.
+
+Por el momento, quédate con esto.
+
+Es un lenguaje que permite construir expresiones que recorren y procesan un documento XML.
+
+Además de eso, Expat también permite buscar y seleccionar teniendo en cuenta la estructura jerárquica
+
+del XML por jerárquica me refiero a quiénes son los contenedores padre y quiénes son los contenedores
+
+hijos.
+
+Un contenedor padre es aquel que dentro del mismo contiene más viñetas o más contenedores HTML.
+
+En este caso de XML, que al final de cuentas es casi lo mismo, no vas a ver más adelante.
+
+Pero quiero que te quedes con estos dos conceptos para entender lo que es expat.
+
+Permite buscar, es seleccionar, tener en cuenta la estructura jerárquica del XML, así que esta clase
+
+es un poco corta.
+
+Lo vamos a ver de manera más gráfica en la sección.
+
+Por el momento dejo la clase hasta acá, espero.
+
+Te ha gustado?
+
+Qué has aprendido?
+
+Muchas gracias por ver y hasta la próxima.

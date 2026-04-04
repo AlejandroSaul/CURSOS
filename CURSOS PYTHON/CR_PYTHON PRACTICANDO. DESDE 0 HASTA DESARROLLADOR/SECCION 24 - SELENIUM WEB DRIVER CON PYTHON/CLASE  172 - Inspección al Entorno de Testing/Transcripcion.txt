@@ -1,0 +1,164 @@
+Vamos a esta lección en donde vamos a instalar el último componente necesario para trabajar con selenio,
+
+este es el driver que ya te había mencionado.
+
+Acaba de depender del navegador que vayas a utilizar para realizar tus pruebas.
+
+Para el caso del curso voy a utilizar el navegador Google Chrome.
+
+Por eso voy a descargar el driver de dicho navegador.
+
+Sin embargo, si deseas utilizar Firefox, Edge, Safari, entre otros.
+
+Está también el driver, pero solo te voy a enseñar a descargarlo para Fire Fox o para Google Chrome,
+
+para los demás navegadores el proceso vendría a ser técnicamente el mismo.
+
+Estamos en la página oficial de Selenio, selenio, un punto de y de nuevo vamos a bajar a la sección
+
+de descarga de selenio en Web Driver.
+
+Voy a descargar y ahora, en lugar de venirme a esta tabla, voy a seguir bajando un poco.
+
+Hasta llegar acá, donde dice browsers, o sea navegadores.
+
+Voy a abrir dicha pestaña y acá me estaría saliendo todos los navegadores que podrían ser compatibles
+
+con Selenio.
+
+Y acá quiero aclarar algo.
+
+Estos drivers no son auspiciados, creados o llevados a cabo por selenio.
+
+Estos drivers son creados por los mismos creadores de los navegadores con el fin de que se puedan realizar
+
+pruebas.
+
+Por eso acá estaríamos instalando algo de terceros.
+
+Y como puedes notar Firefox, Internet Explorer que ya nadie usa, Safari, Opera, Crom, etc. que
+
+es Internet Explorer 2.0 y que nadie usa también, pero puedes revisar la documentación de cualquiera.
+
+En este caso voy a iniciar con Google Chrome y luego voy a pasar con Firefox.
+
+Vamos a iniciar con GoPro.
+
+Acá tendríamos la página de Crom Driver.
+
+Este es el driver que Google Chrome ha creado para poder automatizar con selenio.
+
+Si te fijas, acá está la sección todas las, todas las versiones disponibles.
+
+Y nos muestra última versión estable.
+
+Esta es la que vamos a descargar la última versión estable, con Driver ochenta y ocho, punto.
+
+Bla, bla, bla.
+
+Entonces damos clic y nos redirección a este sitio.
+
+Acá estaría para Linux, para Mac, otro para Mac.
+
+El que nos interesa es para Windows.
+
+Damos clic y se nos va a descargar un archivo comprimido.
+
+Como sabes, a mí las descargas me las guarda automáticamente en el navegador, en el escritorio y procedo
+
+a extraerlo.
+
+Me estaría mostrando este archivo que es el driver.
+
+Qué vamos a hacer con este?
+
+Lo que vamos a hacer es lo siguiente vamos a cortar, vamos a venirnos a pizza y acá vamos a crear sobre
+
+pruebas testing, que es el proyecto que yo ya había creado.
+
+Vamos a dar clic derecho.
+
+Y acá nos vamos a ir a Neo, o sea nuevo, vamos a colocar Peyton Fire.
+
+Y acá vamos a colocar lo siguiente este es un script que vamos a estar programando para install para
+
+verificar que se de un función.
+
+Por el momento solo le voy a poner el script.
+
+Guión bajo prueba.
+
+Esto lo vamos a utilizar un poco más adelante.
+
+Pero lo que me interesa es lo siguiente.
+
+Siempre acá en el nombre de nuestro archivo.
+
+Bueno, nuestro proyecto, vamos a dar clic derecho otra vez en Neo, pero en este caso vamos a seleccionar
+
+Python Package, le ponemos un nombre y yo le voy a poner drivers y nos estaría creando esta nueva carpeta.
+
+Dentro de esta nueva carpeta que es Drivers.
+
+Yo voy a dar clic derecho y voy a darle en Pegar.
+
+Me estaría pegando el Krom Driver.
+
+Voy a darle en OK y acá tendría ya mi driver de Google Krom con el que vamos a estar controlando dicho
+
+navegador.
+
+Esto si vas a utilizar nada más Google Crop y también vas a utilizar pizza.
+
+Es necesario que lo tengas acá en esta dirección, con los pasos que te he enseñado.
+
+Más adelante vamos a ver de que forma lo utilizaríamos.
+
+Ahora, para Firefox es técnicamente lo mismo, con la diferencia que me voy a ir a mi navegador y como
+
+yo ya había abierto la página de Firefox, nos va a redireccionar a este sitio.
+
+Recuerda cancele yo Firefox documentación y me trajo a este sitio.
+
+Acá lo que nos interesa es dar click en este link que muestra acá las versiones de Gecko Driver me cuadra
+
+y ver es el driver de Firefox.
+
+Damos clic y nos redirecciona a git o.
+
+Bajamos un poco y aquí tendríamos todos los drivers que hacen referencia a Firefox.
+
+Para el caso Windows 32 bits o 64 yo tengo 64.
+
+Está acá el que Driver también lo extraemos.
+
+Y tendríamos acá el driver de Firefox.
+
+Este proceso es nada más, si vas a utilizar Firefox, si vas a utilizar Google Chrome, es suficiente
+
+con que hagas esto ya no amerita ver el papanatas y que puedes saltar a la siguiente elección.
+
+Si vas a utilizar Firefox es técnicamente el mismo proceso.
+
+Click derecho no Python package, creas el paquete y acá en drivers das click derecho pegar ok y ya
+
+tendrías el gecko driver en la carpeta que corresponde.
+
+Así que de esta manera tendríamos configurado nuestro respectivo driver en la próxima lección vamos
+
+al segundo editor de código con el que puedes estar trabajando.
+
+Entonces, de esta manera ya tendríamos todos nuestros componentes.
+
+Obviamente el driver ya te dije, si vas a utilizar holocrón nada más tienes que descargar este.
+
+Si vas a utilizar Firefox, tienes que descargar nada más que con Driver, no significa que vas a descargar
+
+ambos, pero sí es importante que tengas tu respectivo package de Python y también que estén almacenados
+
+los drivers en dicho package.
+
+Por el momento dejo la clase hasta acá y me despido.
+
+Muchas gracias por ver y hasta la próxima.
+

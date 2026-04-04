@@ -1,0 +1,93 @@
+En esta clase vamos a instalar una extensión llamada Crop Path.
+
+Dicha extensión nos va a permitir dar comandos expat.
+
+Para extraer ciertos datos de componentes para luego poder trabajar dichos datos con selenio.
+
+La instalación no voy a hacer para ambos navegadores.
+
+Ya sabes, estamos utilizando Google Chrome, sin embargo, en algunas clases se utilizo Firefox.
+
+De hecho, la opción a ti que escojas.
+
+Y voy a enseñar la instalación para ambos.
+
+Voy a misa con Google.
+
+No es tan fácil como venir a un buscador y escribir lo siguiente.
+
+Chrome Crop.
+
+Esta es una extensión de la que te hablo, Kropotkin.
+
+Nos va a permitir tener dicha extensión en el navegador y generar código expat expat.
+
+Ya lo vimos en la clase anterior.
+
+Lo que es entonces entra simplemente en la primera, en el primer link y acá te va a redireccionar a
+
+la cron Webster.
+
+Qué sería la tienda de Google?
+
+Y acá es tan fácil como añadir a Chrome.
+
+Va a comprobar, te va a lanzar este alert, simplemente le das a Add Station para añadirla.
+
+Y de esta manera, bueno, salta ésta, pero de esta manera ya estaría instalada la extensión.
+
+Voy a venir, ayúdame y voy a hacer lo siguiente para que verifiquemos si ya está la extensión, voy
+
+a iniciar sesión.
+
+Y acá F12.
+
+Si notas anteriormente yo la tenía así para tenerlo hacia abajo, es tan simple como darle en los tres
+
+puntos.
+
+Y seleccionar esta opción para que la consola te aparezca acá abajo.
+
+Ahora lo que vas a hacer es buscar acá a la derecha y en este navegación te debe de salir Croft.
+
+Si no te sale, entonces das acá en las 3, en otros signos y acá estaría.
+
+Puede ser esto un poco más grande para que lo veas mejor?
+
+Aquí estamos en esta navegación sólo das en este símbolo, ya que estaría crop path, das click ahí
+
+y se te va a cargar esta.
+
+Este tipo de consola.
+
+De esta forma ya estaría validado que te has instalado.
+
+Vamos, ahora como sila estoy yaca y es técnicamente el mismo proceso crop path.
+
+Pero en este caso no se te olvide ponerle Firefox.
+
+Y de esta forma, acá en el primer link te saldría lo que sería la extensión.
+
+Entramos y acá es un poco diferente, pero es lo mismo agregar a Firefox.
+
+Añadimos.
+
+Y de esta manera ya estaría instalado también el crop para verificarlo, lo mismo F12.
+
+Y te debería de salir por acá.
+
+Voy a cerrar lo siguiente, voy a cerrar esto.
+
+La única diferencia es que solo debes de dar en esta flecha y aquí estaría Crop Path y ÂTiene saca tu
+
+consola de crop?
+
+Así que de esta manera finalizamos la clase.
+
+Hemos finalizado la instalación de tropas, ya depende de ti en cuál navegador lo vayas a utilizar.
+
+Por el momento dejo la clase hasta acá, espero.
+
+Te ha gustado y hayas aprendido.
+
+Muchas gracias por ver y hasta la próxima.
