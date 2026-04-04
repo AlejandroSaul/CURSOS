@@ -1,4 +1,4 @@
-nombre = "Alejandro Saul Baños Vega"#Comentario en una linea
+nombre = "Alejandro Saul"#Comentario en una linea
 '''Comentario
 en
 multiples

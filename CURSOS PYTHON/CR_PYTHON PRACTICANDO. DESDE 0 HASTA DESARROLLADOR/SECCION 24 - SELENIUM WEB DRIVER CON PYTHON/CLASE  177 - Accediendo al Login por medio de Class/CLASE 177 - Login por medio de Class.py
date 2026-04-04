@@ -31,12 +31,12 @@ login.click()
 usuario = wait.until(
     EC.presence_of_element_located((By.ID, "form3-username"))
 )
-usuario.send_keys(os.getenv("LICHESS_USUARIO"))
+usuario.send_keys(os.getenv("LICHESS_USUARIO")or"")
 
 clave = wait.until(
     EC.presence_of_element_located((By.ID, "form3-password"))
 )
-clave.send_keys(os.getenv("LICHESS_PASS"))
+clave.send_keys(os.getenv("LICHESS_PASS")or"")
 
 inicio = wait.until(
     EC.element_to_be_clickable((By.CSS_SELECTOR, "button.submit.button"))
