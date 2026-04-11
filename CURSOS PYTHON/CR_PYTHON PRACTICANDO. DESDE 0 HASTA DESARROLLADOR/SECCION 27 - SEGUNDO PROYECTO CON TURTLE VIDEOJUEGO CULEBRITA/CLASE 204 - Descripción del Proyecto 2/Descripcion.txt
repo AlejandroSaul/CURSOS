@@ -1,0 +1,81 @@
+En esta sección y esta pequeña introducción a la nueva sección quiero quiero darte una pequeña introducción
+
+y mostrarte lo que vamos a estar realizando como proyecto número 2 para practicar todo lo aprendido
+
+en secciones anteriores.
+
+Vamos a seguir trabajando con toros.
+
+En este caso vamos a hacer el típico juego de la serpiente, el de la culebra o como pueda llamarse
+
+en tu región o país.
+
+Así que este sería el código fuente, el cual vamos a estar desarrollando conforme transcurra en la
+
+sección.
+
+Aquí puedes verlos.
+
+Son alrededor de 156 líneas de código 152.
+
+Entonces lo que vamos a practicar acá son cosas como bucles.
+
+Vamos a practicar funciones, vamos a practicar también entradas por teclado y de igual manera vamos
+
+a estar trabajando con un poco de listas y a su vez vamos a utilizar el conocimiento del de la sección
+
+de toros.
+
+Entonces voy a ejecutar para que veamos qué es el videojuego que vamos a estar desarrollando.
+
+Y es este que está acá.
+
+Este es de la culebra.
+
+Si tú te fijas, ahí está nuestra representación, que ha sido un juego bastante popular en su debido
+
+momento y que muchos celulares lo traían.
+
+Entonces, si te fijas, hay como un contador de puntos.
+
+Entonces ese contador van a ser bucles.
+
+Va a ser un for.
+
+También la serpiente va creciendo, sus sus segmentos van creciendo, que es lo que vamos a utilizar
+
+acá?
+
+Pues lo que vamos a utilizar acá es una lista en donde se van a ir almacenando los píxeles de igual
+
+forma.
+
+La serpiente responde a las entradas de teclado, o sea, las flechas arriba, abajo, izquierda, derecha.
+
+Entonces, si yo, por ejemplo, llego con mi serpiente al borde.
+
+Significa que habría perdido.
+
+Por ende, se va a resetear la marcha desde cero.
+
+Si te fijas, los puntos son cero, el puntaje más alto 110, entonces significa que este sería el videojuego
+
+que vamos a estar desarrollando, con el cual vamos a poner en práctica muchos de los que ya hemos visto.
+
+Recuerda que el objetivo de estos proyectos es que veas que Python no sólo es una línea de código,
+
+no sólo es una consola en pantalla.
+
+No, la programación va más allá que esto.
+
+Entonces este proyecto número dos nos va a servir para esto.
+
+De hecho, si la serpiente en dado caso va creciendo y toca su propio borde, ahí toque el propio borde
+
+se reinicia.
+
+Entonces doy por finalizada esta pequeña introducción y muestra de lo que vamos a estar desarrollando.
+
+Comenzamos con una nueva sección y un nuevo proyecto.
+
+Muchas gracias por ver y hasta la próxima.
