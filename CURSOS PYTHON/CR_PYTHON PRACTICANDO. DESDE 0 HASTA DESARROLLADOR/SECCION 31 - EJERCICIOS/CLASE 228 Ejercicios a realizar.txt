@@ -1,0 +1,7 @@
+Hola Amigos/as!
+
+Les dejo 2 paginas web excelentes donde vas a poder encontrar diferentes ejercicios de python con su respectiva solución.
+
+http://www.pythondiario.com/p/ejercicios-de-programacion-python.html
+
+http://aprendeconalf.es/python/ejercicios/
