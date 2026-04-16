@@ -1,0 +1,201 @@
+En este vídeo vamos a resolver tres preguntas.
+
+La primera, qué es JavaScript?
+
+La segunda duda que nosotros vamos a resolver es Qué es?
+
+ECMAScript?
+
+Y la última pregunta que vamos a resolver es qué se puede hacer con JavaScript?
+
+Que a todo esto JavaScript nosotros lo podemos escribir como JavaScript tal cual como aparece acá o
+
+de manera corta como JS.
+
+Vamos a comenzar con la primera pregunta Qué es JavaScript?
+
+JavaScript es uno de los lenguajes de programación más populares que existe actualmente en el mundo
+
+y quizá podría ser también el más utilizado en todo el mundo.
+
+Con este lenguaje tú puedes trabajar como desarrollador web y dentro del desarrollo web tú puedes ser
+
+frontend o también conocido como desarrollador frontend.
+
+El desarrollador frontend es el encargado en construir toda la parte visual de la aplicación.
+
+También puedes trabajar como Backend Developer o desarrollador backend y este está encargado de escribir
+
+la lógica del negocio, pero en la parte del servidor también puedes trabajar como desarrollador.
+
+Fullstack.
+
+Actualmente se define el desarrollador Fullstack como quien sabe frontend y también backend.
+
+Además de esto lo voy a anotar con otro color.
+
+Por acá puedes ser desarrollador móvil, Vamos a anotar acá mobile.
+
+Estos son los encargados de construir aplicaciones móviles tanto para Android como para iOS.
+
+Anotemos aquí.
+
+Android iOS También puedes construir aplicaciones de escritorio.
+
+Vamos a colocar acá apps de escritorio que de hecho, el editor de texto que vamos a utilizar a lo largo
+
+de este curso se encuentra construido en JavaScript y este es una aplicación de escritorio.
+
+Y además, como punto extra, nosotros también podemos trabajar sobre microcontroladores.
+
+La verdad es que JavaScript es la navaja suiza de los lenguajes de programación hoy en día.
+
+También es el lenguaje utilizado para poder desarrollar con las librerías o frameworks más populares
+
+que existen, dentro de los cuales tenemos a View.
+
+Se escribe Vue, pero se pronuncia view.
+
+También tenemos a Angular y también tenemos a React, siendo React actualmente la librería de JavaScript
+
+más popular que existe actualmente y también la más utilizada hasta el momento.
+
+Yo te he nombrado dos palabras que no necesariamente podrías conocer, las cuales son framework y librería.
+
+Algunos desarrolladores piensan que la palabra correcta a utilizar en lugar de librería es biblioteca.
+
+Sin embargo, nosotros no nos vamos a preocupar por eso.
+
+Ahora nos vamos a preocupar cuál es la diferencia entre estos dos.
+
+Un framework te entrega herramientas y no solo te entrega herramientas, te entrega muchas herramientas
+
+para que tú puedas desarrollar aplicaciones que sean complejas.
+
+Este te va a decir a ti como tú tienes que trabajar.
+
+A diferencia de un framework, una librería se encarga de solucionar un problema en específico, pero
+
+este también es una herramienta.
+
+En otras palabras, si tuviésemos que hablar en temas de cuántas herramientas te entrega uno por sobre
+
+el otro, el framework siempre te va a entregar más herramientas que una librería con un framework.
+
+Tú puedes construir una aplicación completa utilizando solamente las herramientas del framework.
+
+Sin embargo, una librería solamente va a intentar resolver un problema en específico.
+
+Y ahora vamos a resolver la siguiente pregunta Qué es ECMAScript?
+
+Para explicarte de mejor manera qué es ECMAScript?
+
+Primero vamos a hablar un poco de la historia de JavaScript.
+
+Cuando se creó JavaScript, este se hizo para que se ejecutara dentro de los exploradores web, específicamente
+
+dentro de Netscape.
+
+Entonces acá nosotros tenemos un explorador y dentro de este tenemos a JavaScript.
+
+La razón por la cual se desarrolló JavaScript era porque los sitios web en ese entonces eran estáticos.
+
+Esto quiere decir que si tu querías ver contenido nuevo dentro de una página web, tú tenías que navegar
+
+a otra página web y esto tú lo hacías a través de links, los típicos links que tú ya conoces que tú
+
+tienes que ir con el mouse, los pinchas y te llevan a otra página.
+
+Luego Netscape, que eran los creadores de JavaScript, decidieron entregarle JavaScript a la organización
+
+ECMA que ECMA significaba en ese entonces European Computer Manufacturers Association.
+
+Ahora ECMA ya no es un acrónimo y es el nombre de la organización misma.
+
+Esta organización decidió cambiar su nombre para representar a una organización sin fines de lucro cuyo
+
+único objetivo es contribuir a estándares tecnológicos.
+
+Esta empresa ECMA ha contribuido ya con bastantes estándares tecnológicos, como por ejemplo ECMA 334.
+
+Este son las especificaciones técnicas de Csharp.
+
+También tienes ECMA 404, que si tú las vas a buscar sí las vas a encontrar y son las especificaciones
+
+de JSON.
+
+También tienes la especificación ECMA 408 y estas son las especificaciones técnicas del lenguaje Dart.
+
+Y finalmente tenemos a ECMA 262 o también conocido como ECMAScript, el cual indica los estándares para.
+
+Los lenguajes de programación JavaScript también son las especificaciones del difunto lenguaje JavaScript
+
+y también del lenguaje Action Script.
+
+Y aquí viene lo importante.
+
+La versión del año 2015 cambió absolutamente todo para JavaScript.
+
+Esta fue la versión ECMAScript 2015.
+
+En esta versión fue cuando se introdujeron funcionalidades como por ejemplo Let const.
+
+A todo esto no te tienes que acordar de memoria de absolutamente nada de esto.
+
+Cada una de estas cosas que nosotros estamos mencionando ahora tienen su video dedicado.
+
+También introdujo las Fat Arrow Functions y también introdujo las clases en JavaScript.
+
+Pero en este momento te voy a detener.
+
+Las clases en JavaScript como tal no existen.
+
+Lo que sí existe es un azúcar sintáctica para poder entregarle la noción a los desarrolladores de que
+
+se están trabajando con clases.
+
+Sin embargo, no son clases, azúcar sintáctica y clases.
+
+Te lo voy a explicar más adelante.
+
+Pero lo que te tienes que llevar de este vídeo es que se implementó la palabra reservada de clases en
+
+ECMAScript 2015.
+
+Y ahora que ya sabemos que ECMAScript es una especificación y que ECMAScript 2015.
+
+Vino a cambiar el mundo de JavaScript, cómo se ejecuta entonces JavaScript?
+
+Como te contaba, JavaScript fue un lenguaje que se escribió para los exploradores web.
+
+Por ende, todos los exploradores web en la actualidad tienen un motor que se encarga de ejecutar JavaScript.
+
+De hecho lo voy a pintar acá con colorcito azul.
+
+A este motor le vamos a decir que se llama JavaScript Engine o motor de JavaScript.
+
+El motor de Google Chrome se llama V8.
+
+Este motor es de código abierto.
+
+Esto quiere decir que cualquier persona en todo el mundo puede acceder a leer el código fuente de este
+
+motor y por presentar esta característica de ser de código libre de código abierto.
+
+Un desarrollador llamado Ryan Dahl logró embeber este motor de V8 dentro de código escrito en C++.
+
+Al hacer esto, permitió que código JavaScript pueda ser ejecutado en prácticamente cualquier lado gracias
+
+al trabajo de este señor Ryan Dahl es que JavaScript puede ser ejecutado en servidores, aplicaciones
+
+de escritorio, aplicaciones móviles, videojuegos o incluso microcontroladores.
+
+Vamos a colocar acá solamente micro.
+
+Y ahora, cómo se llama este código escrito en C++ que permitió embeber el motor de V8?
+
+Este se llama node JS.
+
+Ahora si suficiente de teoría y de historia.
+
+En los siguientes vídeos ya vamos a empezar a ensuciarnos las manos.

@@ -1,0 +1,64 @@
+Para nuestro entorno de trabajo nosotros vamos a necesitar tres herramientas.
+
+La primera que nosotros vamos a necesitar es Visual Studio Code.
+
+Este editor de texto de hecho fue construido con JavaScript y es el que nosotros vamos a estar utilizando
+
+a lo largo de todo el curso.
+
+Si tú quieres utilizar otro, seas bienvenido.
+
+Sin embargo, si no quieres que exista absolutamente nada distinto entre tú y yo, utiliza Vscode.
+
+La instalación es sumamente sencilla.
+
+Tú sencillamente te vienes a este botón que dice download, si es que estás en Mac, te va a decir Mac,
+
+si es que estás en Windows, te va a decir Windows y si es que estás en Linux te va a decir Linux.
+
+Y la URL a la cual tú tienes que venir es esta de Code Visual Studio Puntocom.
+
+Una vez que ingreses acá vas a poder descargarlo.
+
+La siguiente herramienta que nosotros vamos a necesitar es Node js node js.
+
+Nosotros lo vamos a utilizar para poder construir los bundles, los bundles.
+
+La traducción vendría siendo algo así como fajo, así como los fajos de billetes, pero a mí me gusta
+
+más decirle bundle, así es que voy a estar constantemente diciéndole bundle.
+
+Esto, eso sí lo vamos a estar viendo ya llegando a la parte final de este curso.
+
+Así que si quieres no es necesario que lo descargues ahora, puedes descargarlo después.
+
+Yo te lo voy a recordar, pero por si lo quisieras descargar ahora, inmediatamente te tienes que venir
+
+al sitio web de Node js punto org slash hacia adelante en la siguiente herramienta que nosotros vamos
+
+a necesitar sí o sí para el transcurso de este curso es Google Chrome.
+
+Tú podrías utilizar otro explorador web, si es que así tú lo quieres.
+
+Pero la forma que tienen los exploradores web para poder depurar las aplicaciones y para poder ver todo
+
+lo que nosotros estamos haciendo es distinta entre todos.
+
+Así que para que nosotros tengamos una misma experiencia, nosotros, tú y yo, para que tengamos la
+
+misma experiencia, utiliza Google Chrome.
+
+Ahora no es necesario que tú te aprendas esta URL porque como puedes ver, la verdad es que es bastante
+
+larga.
+
+Puedes venirte a Google y buscas Google Chrome, presionas Enter y debiese ser el primer link que te
+
+aparece.
+
+Y si no puedes venir directamente acá donde dice Download now y si es que pinchas acá te va a mostrar
+
+prácticamente lo mismo que yo te mostré antes.
+
+Así que ve a estas páginas web, descarga estas tres herramientas y nos vemos en un minuto.
+

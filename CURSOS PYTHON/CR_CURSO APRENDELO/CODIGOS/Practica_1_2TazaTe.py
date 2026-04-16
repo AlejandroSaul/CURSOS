@@ -1,7 +1,7 @@
 #Practica_1_2_Tazate.py
 #Aprendelo - Roberto
 #Febrero, 2024
-#Alejandro Saul Baños Vega
+#Alejandro Saul
 #Preaparar una taza de te.
 
 print("Hervir agua.")
